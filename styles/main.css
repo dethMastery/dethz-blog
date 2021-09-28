@@ -1,18 +1,4 @@
-@font-face {
-  @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
-  font-family: 'Kanit', sans-serif;
-  font-style: normal;
-  font-weight: 100 900;
-  font-display: block;
-}
-@font-face {
-  @import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,200&display=swap');
-  font-family: 'font-family: 'Kanit', sans-serif;';
-  font-style: italic;
-  font-weight: 100 900;
-  font-display: block;
-  font-named-instance: 'Italic';
-}
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
 
 body {
   font-family: 'Kanit', sans-serif;
@@ -29,35 +15,43 @@ h3,
 h4,
 h5,
 h6 {
+  font-family: 'Kanit', sans-serif;
   font-variation-settings: 'wght' 650;
 }
 h1 {
+  font-family: 'Kanit', sans-serif;
   font-variation-settings: 'wght' 850;
 }
 h2 {
+  font-family: 'Kanit', sans-serif;
   font-variation-settings: 'wght' 750;
 }
 
 @media screen and (min-device-pixel-ratio: 1.5),
   screen and (min-resolution: 1.5dppx) {
   body {
+    font-family: 'Kanit', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
 }
 
 details summary {
+  font-family: 'Kanit', sans-serif;
   cursor: pointer;
 }
 
 img.next-image {
+  font-family: 'Kanit', sans-serif;
   margin: 0;
 }
 
 .prose a {
+  font-family: 'Kanit', sans-serif;
   color: #0074de;
 }
 
 .nav-line .nav-link {
+  font-family: 'Kanit', sans-serif;
   color: #69778c;
 }
