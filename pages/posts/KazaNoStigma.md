@@ -1,6 +1,6 @@
 ---
 title: "[Spring 2007] Kaze no Stigma (มลทินแห่งลม)"
-date: 2021/9/29
+date: 1632877200000
 description: "รีวิวสั้นๆ หลังดู Kaze no Stigma.."
 tag: anime review
 author: Deth's
