@@ -1,5 +1,5 @@
 ---
-title: "[2008] Bounen no Xamdou (Xam'd: Lost memory)"
+title: "[ONA 2008] Bounen no Xamdou (Xam'd: Lost memory)"
 date: 2021/9/29
 description: "รีวิิวสั้นๆ หลังจากดู Xam'd: Lost memory.."
 tag: anime review
