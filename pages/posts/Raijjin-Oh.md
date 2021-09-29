@@ -1,6 +1,6 @@
 ---
 title: "[Spring 1991] Zettai Muteki Raijin-Oh (หุ่นยนต์เทพเจ้า ไรจินโอ)"
-date: 1632895141807
+date: 1630344960000
 description: "รีวิวสั้นๆ หลังดู Zettai Muteki Raijin-Oh.."
 tag: anime review
 author: Deth's
