@@ -8,6 +8,8 @@ body {
   font-variation-settings: 'wght' 450;
   font-variant: common-ligatures contextual;
   letter-spacing: -0.02em;
+  background-color: #242424;
+  color: #EDEDED!important;
 }
 b,
 strong,
@@ -15,21 +17,41 @@ h3,
 h4,
 h5,
 h6 {
+  color: #EDEDED!important;
   font-family: 'Kanit', sans-serif;
   font-variation-settings: 'wght' 650;
 }
 h1 {
+  color: #EDEDED!important;
   font-family: 'Kanit', sans-serif;
   font-variation-settings: 'wght' 850;
 }
 h2 {
+  color: #EDEDED!important;
   font-family: 'Kanit', sans-serif;
   font-variation-settings: 'wght' 750;
+}
+p {
+  color: #EDEDED!important;
+}
+
+.meta {
+  color: #EDEDED!important;
+}
+
+.meta time {
+  color: #B6B6B6!important;
+}
+
+.meta .tag {
+  color: #242424!important;
 }
 
 @media screen and (min-device-pixel-ratio: 1.5),
   screen and (min-resolution: 1.5dppx) {
   body {
+    background-color: #242424;
+    color: #EDEDED!important;
     font-family: 'Kanit', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -37,21 +59,25 @@ h2 {
 }
 
 details summary {
+  color: #EDEDED!important;
   font-family: 'Kanit', sans-serif;
   cursor: pointer;
 }
 
 img.next-image {
+  color: #EDEDED!important;
   font-family: 'Kanit', sans-serif;
   margin: 0;
 }
 
 .prose a {
+  color: #EDEDED!important;
   font-family: 'Kanit', sans-serif;
   color: #0074de;
 }
 
 .nav-line .nav-link {
+  color: #EDEDED!important;
   font-family: 'Kanit', sans-serif;
   color: #69778c;
 }
