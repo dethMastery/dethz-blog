@@ -8,9 +8,19 @@ body {
   font-variation-settings: 'wght' 450;
   font-variant: common-ligatures contextual;
   letter-spacing: -0.02em;
-  background-color: #242424;
+  background-color: #242424!important;
   color: #EDEDED!important;
 }
+
+div {
+  background-color: #242424!important;
+  color: #EDEDED!important;
+}
+
+div h1 {
+  border-right:1px solid #EDEDED!important;
+}
+
 b,
 strong,
 h3,
