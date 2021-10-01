@@ -1,6 +1,6 @@
 ---
 title: "[Spring 2002] Rockman.EXE"
-date: 1633052637080
+date: 1633058508347
 description: "รีวิวสั้นๆ หลังจากดู Rockman.EXE.."
 tag: anime review
 author: Deth's
