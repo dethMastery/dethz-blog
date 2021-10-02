@@ -2,7 +2,7 @@
 title: "[ONA 2008] Bounen no Xamdou (Xam'd: Lost memory)"
 date: 1630344960000
 description: "รีวิวสั้นๆ หลังจากดู Xam'd: Lost memory.."
-tag: anime review
+tag: Anime Review
 author: Deth's
 ---
 
