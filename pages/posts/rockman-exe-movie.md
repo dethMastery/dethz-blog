@@ -1,6 +1,6 @@
 ---
 title: "[Movie 2005] Rockman.EXE Movie: Hikari to Yami no Program"
-date: 1633611422277
+date: 1633613284038
 description: "รีวิวสั้นๆ หลังจากดู Rockman.EXE Movie: Hikari to Yami no Program.."
 tag: Movie Review, Rockman Series
 author: Deth's
