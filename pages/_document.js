@@ -7,12 +7,12 @@ class MyDocument extends Document {
   }
 
   render() {
-    // const meta = {
-    //   title: "Deth's Blog",
-    //   description: 'Just a little blog that I just want to write',
-    //   image:
-    //     'https://media.discordapp.net/attachments/832221566820548667/892587613402320906/New_Project.png'
-    // }
+    const meta = {
+      title: "Deth's Blog",
+      description: 'Just a little blog that I just want to write',
+      image:
+        'https://media.discordapp.net/attachments/832221566820548667/892587613402320906/New_Project.png'
+    }
 
     return (
       <Html lang="en">
