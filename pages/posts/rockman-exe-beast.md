@@ -2,7 +2,7 @@
 title: "[Fall 2005] Rockman.EXE Beast"
 date: 1633856519631
 description: "รีวิวสั้นๆ หลังจากดู Rockman.EXE Beast.."
-tag: Anime Review, Movie Review, Rockman Series
+tag: Anime Review, Rockman Series
 author: Deth's
 ---
 ![Banner](https://cdn.myanimelist.net/images/anime/5/80910.jpg)
