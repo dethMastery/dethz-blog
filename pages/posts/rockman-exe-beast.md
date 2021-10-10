@@ -36,7 +36,7 @@ author: Deth's
 <img src="https://box.lolis.love/0/eylfz.jpg" alt="Iris.EXE" width="400" />
 
 แต่ก็ใช่ครับบทนางเอกเป็นของ Jusmine ขอบคุณครับ
-<img src="https://box.lolis.love/0/3woqw.png" alt="Iris.EXE" width="400" />
+<img src="https://box.lolis.love/0/3woqw.png" alt="Final Scene" width="400" />
 <center>
     ##### เล่นยัด Scene ตอนจบโต้งๆ งี้ ที่ปูไว้ก็หายหมดดิฟ่ะ
 </center>
