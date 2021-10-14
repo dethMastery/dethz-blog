@@ -1,8 +1,8 @@
 ---
 title: "[Fall 2006] Ryuusei no Rockman (Shooting star Rockman)"
-date: 
+date: 1634234699962
 description: "รีวิวสั้นๆ หลังจากดู Ryuusei no Rockman.."
-tag: Anime Review, Movie Review, Rockman Series
+tag: Anime Review, Rockman Series
 author: Deth's
 ---
 ![Banner](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1835-6GfMj4kSZo3b.jpg)
