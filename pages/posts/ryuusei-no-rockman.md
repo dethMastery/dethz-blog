@@ -23,6 +23,6 @@ Design ตัวละครในเรื่องนี้ถือว่า�
 
 ## ป.ล.
 ### มิโซระจังน่ารักมากครับ ขอบคุณครับ
-<img src="https://akamai-origin.myanimelist.net/images/characters/15/100423.jpg" alt="misora" width="300px" />
+<img src="https://akamai-origin.myanimelist.net/images/characters/15/100423.jpg" alt="misora" width="350px" />
 
 ![Score](https://img.shields.io/badge/Score-10%2F10-coral?style=for-the-badge)
