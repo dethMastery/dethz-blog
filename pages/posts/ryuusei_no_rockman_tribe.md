@@ -20,9 +20,9 @@ author: Deth's
 
 ## ตัวละคร
 Design ตัวละครต่างๆ ในภาคนี้ถือว่าดีมากๆ ไม่ว่าจะเป็น Bly, Yeti, Phantom และร่างต่างๆ ของ Rockman แต่สิ่งที่ผมสงสัยในภาคนี้คือ ร่างมีทั้งหมด 3 ร่าง แต่ว่าทั้งเรื่องใช้แค่ร่าง Thunder Zerker แล้วก็ร่างผสมเลย ซึ่งมันทำให้ผมงงมากด้วย และ ยังมีตอนจบที่เอาชาว FM ที่โดน Gemini ฆ่าตายเมื่อภาคก่อนกลับมาอีก
-<img src="https://box.lolis.love/0/5480d.png" alt="character" width="300px" />
+<img src="https://box.lolis.love/0/4s89u.png" alt="character" width="300px" />
 <center>Thunder Zerker</center>
-<img src="https://box.lolis.love/0/z8zn9.png" alt="character" width="300px" />
+<img src="https://box.lolis.love/0/zhxer.jpg" alt="character" width="300px" />
 <center>Tribe King</center>
 <br />
 
