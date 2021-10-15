@@ -1,6 +1,6 @@
 ---
 title: "[Fall 2007] Ryuusei no Rockman Tribe (Shooting Star Rockman Tribe)"
-date: 
+date: 1634304172364
 description: "รีวิวสั้นๆ หลังจากดู Ryuusei no Rockman Tribe.."
 tag: Anime Review, Rockman Series
 author: Deth's
