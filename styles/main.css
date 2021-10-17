@@ -91,3 +91,20 @@ img.next-image {
   font-family: 'Kanit', sans-serif;
   color: #69778c;
 }
+
+.con {
+  padding-top: 0!important;
+  padding-bottom: 0!important;
+  margin-top: 0!important;
+  margin-bottom: 0!important;
+}
+
+.img-w-desp {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.text-desp {
+  margin-top: 0 !important;
+  margin-top: 0 !important;
+}
