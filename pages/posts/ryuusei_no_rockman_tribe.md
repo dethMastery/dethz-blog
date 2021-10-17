@@ -12,10 +12,10 @@ author: Deth's
 
 ## เนื้อเรื่อง
 ส่วนนึงที่ผมค่อนข้างโอเคในเรื่องนี้คือบทของแม่ที่ไม่ได้น้อยหรือมากเกินไป ซึ่งนั่นทำให้รู้่สึกว่า Rockman ในภาคนี้ทำได้เยี่ยมมากๆ ไม่เหมือนกับ Rockman ในส่วนของ Rockman.EXE ที่เน็ตโตะไม่ค่อยได้คุยกับแม่เลย และหลายตัวละครก็ค่อนข้างจางมากๆ 
-<img src="https://box.lolis.love/0/ri5d4.png" alt="story" width="300px" />
-<center>แม่แซว</center>
-<img src="https://box.lolis.love/0/5480d.png" alt="story" width="300px" />
-<center>ลูกเขิน</center>
+<img src="https://box.lolis.love/0/ri5d4.png" alt="story" width="300px" class="img-w-desp" />
+<center class="text-desp">แม่แซว</center>
+<img src="https://box.lolis.love/0/5480d.png" alt="story" width="300px" class="img-w-desp" />
+<center class="text-desp">ลูกเขิน</center>
 <br />
 
 ## ตัวละคร
