@@ -1,6 +1,6 @@
 ---
 title: "[Fall 2018] SSSS.Gridman"
-date: 1634506581939
+date: 1634511212174
 description: "รีวิวสั้นๆ หลังจากดู SSSS.Gridman.."
 tag: Anime Review, SSSS Series
 author: Deth's
