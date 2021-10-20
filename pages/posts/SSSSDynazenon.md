@@ -1,6 +1,6 @@
 ---
 title: "[Spring 2021] SSSS.Dynazenon"
-date: 1634687431706
+date: 1634754910885
 description: "รีวิวสั้นๆ หลังจากดู SSSS.Dynazenon.."
 tag: Anime Review, SSSS Series
 author: Deth's
