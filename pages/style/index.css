@@ -1,0 +1,30 @@
+body {
+    overflow-x: hidden;
+}
+
+h1 {
+    font-size: 35px;
+    padding-top: 1rem;
+}
+
+.nuxt-content h1 {
+    font-size: 30px;
+    padding-bottom: 1.5rem;
+}
+
+.nuxt-content h2 {
+    font-size: 24px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 1rem;
+}
+
+.nuxt-content p {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 1rem;
+}
+
+.nuxt-content div p {
+    text-align: center !important;
+}
