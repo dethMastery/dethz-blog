@@ -25,7 +25,7 @@ author: Deth's
 
 ## ป.ล.
 ถ้าว่ากันตามตรงเลย เรื่องนี้เหมือนสปอยนางเอกมาตั้งแต่ต้นแล้ว แต่ก็กระจายบทให้กับแม่มดคนอื่นๆ และนางเอกเป็นอย่างดีอีกด้วย UwU
-<img src="https://sv1.picz.in.th/images/2021/11/10/uvD35z.png" class="img-w-desp" width="75%" />
+<img src="https://sv1.picz.in.th/images/2021/11/10/uvD5Sv.png" class="img-w-desp" width="75%" />
 <center class="text-desp">สปอยกันตั้งแต่ใน OP ไม่รู้ให้รู้กันไป อะ</center>
 
 <img src="https://sv1.picz.in.th/images/2021/11/10/uvDKIZ.png" class="img-w-desp" width="75%" />
