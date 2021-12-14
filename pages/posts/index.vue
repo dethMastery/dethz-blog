@@ -4,6 +4,7 @@
             Posts
         </h1>
         <Nav />
+        <br>
         <ul class="listing">
             <li v-for="article of articles" :key="article.slug">
                 <div class="hover" :style="'background: url(' + article.thumbnail +');'">
@@ -29,8 +30,8 @@
   export default {
     async asyncData({ $content, params }) {
       const articles = await $content('posts', params.slug)
-        .only(['title', 'description', 'thumbnail', 'slug'])
-        .sortBy('createdAt', 'desc')
+        .only(['title', 'description', 'thumbnail', 'date', 'slug'])
+        .sortBy('date', 'desc')
         .fetch()
 
       return {

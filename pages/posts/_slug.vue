@@ -27,8 +27,8 @@
       async asyncData({ $content, params }) {
         data: {
           const posts = await $content('posts')
-            .only(['title', 'slug'])
-            .sortBy('createdAt', 'asc')
+            .only(['title', 'date', 'slug'])
+            .sortBy('date', 'desc')
             .fetch()
 
           const post = await $content('posts', params.slug).fetch()
