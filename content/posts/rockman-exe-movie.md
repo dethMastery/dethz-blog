@@ -4,7 +4,7 @@ date: 1633613284038
 description: "รีวิวสั้นๆ หลังจากดู Rockman.EXE Movie: Hikari to Yami no Program.."
 tag: Movie Review, Rockman Series
 author: Deth's
-thumbnail: https://cdn.myanimelist.net/images/anime/1/2203.jpg
+thumbnail: https://sv1.picz.in.th/images/2021/12/14/6n1rxz.png
 ---
 # รีวิวสั้นๆ หลังดู Rockman.EXE Movie: Hikari to Yami no Program (Movie 2005)
 ในส่วนของเนื้อเรื่องเสริมนี้ คงพูดได้แค่ว่าภาพต่างๆ และ อะไรต่างๆ ดูดีขึ้น แต่ว่าเนื้อเรื่องกลับกลายเป็นน้ำแถมเนื้อเสียมากกว่า

@@ -4,7 +4,7 @@ date: 1633856519631
 description: "รีวิวสั้นๆ หลังจากดู Rockman.EXE Beast.."
 tag: Anime Review, Rockman Series
 author: Deth's
-thumbnail: https://cdn.myanimelist.net/images/anime/5/80910.jpg
+thumbnail: https://box.lolis.love/0/4esy2.png
 ---
 
 # รีวิวสั้นๆ หลังดู Rockman.EXE Beast (Fall 2005)

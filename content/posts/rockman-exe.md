@@ -4,7 +4,7 @@ date: 1633058508347
 description: "รีวิวสั้นๆ หลังจากดู Rockman.EXE.."
 tag: Anime Review, Rockman Series
 author: Deth's
-thumbnail: https://sv1.picz.in.th/images/2021/10/01/CLZdWS.jpg
+thumbnail: https://box.lolis.love/0/pvjlq.jpg
 ---
 
 # รีวิวสั้นๆ หลังดู Rockman.EXE (Spring 2002)

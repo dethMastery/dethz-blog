@@ -4,7 +4,7 @@ date: 1633500089120
 description: "รีวิวสั้นๆ หลังจากดู Rockman.EXE Stream.."
 tag: Anime Review, Rockman Series
 author: Deth's
-thumbnail: https://cdn.myanimelist.net/images/anime/5/41575.jpg
+thumbnail: https://sv1.picz.in.th/images/2021/12/14/6n1868.png
 ---
 # รีวิวสั้นๆ หลังดู Rockman.EXE Stream (Fall 2004)
 

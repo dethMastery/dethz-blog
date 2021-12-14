@@ -4,7 +4,7 @@ date: 1634304172364
 description: "รีวิวสั้นๆ หลังจากดู Ryuusei no Rockman Tribe.."
 tag: Anime Review, Rockman Series
 author: Deth's
-thumbnail: https://cdn.myanimelist.net/images/anime/1256/94652.jpg
+thumbnail: https://sv1.picz.in.th/images/2021/12/14/6nwZTJ.png
 ---
 # รีวิวสั้นๆ หลังดู Ryuusei no Rockman Tribe (Fall 2007)
 <br />

@@ -4,7 +4,7 @@ date: 1634234699962
 description: "รีวิวสั้นๆ หลังจากดู Ryuusei no Rockman.."
 tag: Anime Review, Rockman Series
 author: Deth's
-thumbnail: https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1835-6GfMj4kSZo3b.jpg
+thumbnail: https://sv1.picz.in.th/images/2021/12/14/6ntlNW.png
 ---
 # รีวิวสั้นๆ หลังดู Ryuusei no Rockman (Fall 2006)
 
