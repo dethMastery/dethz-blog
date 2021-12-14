@@ -5,7 +5,7 @@
                 <a href="/">Home</a>
             </li>
             <li>
-                <a href="#">Content</a>
+                <a href="/posts">Posts</a>
             </li>
             <li>
                 <a href="/MAL">MAL Scoreboard</a>
