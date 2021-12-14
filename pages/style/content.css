@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    height: 40vh;
+    width: 100%;
+}
+
+.author {
+    background-color: whitesmoke;
+    color: #0D1B2A;
+    padding: 2px;
+    border-radius: 5px;
+}
+
+.content {
+    width: 70%;
+    padding-top: 2rem;
+    margin-top: -4rem;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #415A77;
+    height: auto !important;
+    border-radius: 1rem;
+}
+
+h1.title {
+    text-align: left;
+}
+
+.a-cont {
+    text-align: left !important;
+    padding-left: 4rem;
+}
+
+.nav {
+    list-style-type: none;
+}
+
+.pos {
+    text-align: right !important;
+    list-style-type: none;
+    padding-right: 3rem;
+}
+
+.pos a {
+    color: whitesmoke;
+    text-decoration: underline;
+}
+
+.pos a:hover {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.nuxt-content blockquote {
+    text-align: left;
+}

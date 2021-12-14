@@ -1,10 +1,20 @@
 <template>
   <div class="container-fluid">
-    <main :style="'background: url('+post.image+')'" class="header-bg">
+    <main :style="'background: url('+post.thumbnail+')'" class="header-bg">
+      <div class="black"></div>
     </main>
     <center>
       <main class="content">
-        <ul>
+        <h1 class="title">
+          <u>
+            {{ post.hTitle }}
+          </u>
+        </h1>
+        <div class="a-cont">
+          <span class="date">{{ formatDate(post.updatedAt) }} · </span><span class="author">{{post.author}}</span>
+        </div>
+        
+        <ul class="Nav">
           <li class="pos">
             <a href="/posts">
               <span> &lt; Back </span>
@@ -12,14 +22,16 @@
           </li>
         </ul>
         
-        <h1 class="title">{{ post.title }}</h1>
-        <span class="date">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Publish Date: {{ formatDate(post.updatedAt) }}</span>
-        
         <nuxt-content :document="post" />
       </main>
     </center>
   </div>
 </template>
+
+<style>
+  @import url(../style/based.css);
+  @import url(../style/content.css);
+</style>
 
 <script>
   export default {
@@ -84,7 +96,3 @@
     }
   }
 </script>
-
-<style>
-  @import url(../style/based.css);
-</style>
