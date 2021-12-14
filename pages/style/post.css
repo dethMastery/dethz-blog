@@ -1,0 +1,44 @@
+.listing {
+    list-style-type: none;
+    padding-left: 3rem !important;
+    padding-right: 3rem !important;
+}
+
+.listing .hover {
+    /* border: 1px solid whitesmoke; */
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.listing li a {
+    color: whitesmoke;
+    text-decoration: underline;
+}
+
+.listing li a:hover {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.titletext {
+    padding: 0;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    margin: 0;
+}
+
+.desptext {
+    padding-left: 2rem;
+}
+
+.black {
+    padding:1.5rem 0 1.5rem 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 1rem;
+}
