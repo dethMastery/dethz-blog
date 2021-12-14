@@ -9,10 +9,11 @@ date: 2021-09-29
   &nbsp;&nbsp;&nbsp; ยินดีต้อนรับเข้าสู่ Blog เล็กๆ แห่งนี้ ซึ่งสำหรับคนที่เคยเข้ามาก่อนแล้วอาจจะรู้สึกแปลกๆ นิดหน่อย เพราะว่าใช่ครับ นี่คือการเปลี่ยน FrameWork จาก Next.js ไปเป็น Nuxt.js ครับผม เนื่องด้วยตัวผมเองรู้สึกว่าของเก่านั้นยังไม่ดีพอที่จะเอาไปใช้งานได้จริงๆ นั้นแหละครับ เลยทำใหม่ขึ้นมาเลย ยิ่งด้วยล่าสุดเลยคือ vercel ทำพังไปแล้วด้วย ;-; <br><br> สำหรับคนที่อยากจะติดตามนะครับ เชิญที่ Link ข้างล่างได้เลยครับ
 
 ---
+<br>
 
 <div>
   
-  [![HomePage](https://img.shields.io/badge/-HomePage-black?style=for-the-badge)](https://detzz.in.th)
+  [![HomePage](https://img.shields.io/badge/-HomePage-DBDBDB?style=for-the-badge)](https://detzz.in.th)
 
   [![FB](https://img.shields.io/badge/Facebook-Geroge%20Katsuragi%20Deterk-1978F3?style=for-the-badge)](https://fb.com/detzz.in.th)
 

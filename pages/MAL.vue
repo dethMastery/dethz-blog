@@ -1,20 +1,8 @@
 <template>
-  <div>
-    <h1>
-      {{ index.hTitle }}
-    </h1>
-    <Nav />
-    <content>
-        <nuxt-content :document="index" />
-    </content>
-  </div>
+    <div>
+        hello
+    </div>
 </template>
-
-<style>
-@import url(./style/based.css);
-@import url(./style/Nav.css);
-@import url(./style/index.css);
-</style>
 
 <script>
     export default {
