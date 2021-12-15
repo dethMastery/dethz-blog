@@ -1,19 +1,10 @@
 <template>
   <div class="container-fluid">
     <main :style="'background: url('+post.thumbnail+')'" class="header-bg">
-      <div class="black"></div>
+      <div class="black blackhover"></div>
     </main>
     <center>
       <main class="content">
-        <h1 class="title">
-          <u>
-            {{ post.hTitle }}
-          </u>
-        </h1>
-        <div class="a-cont">
-          <span class="date">{{ formatDate(post.updatedAt) }} · </span><span class="author">{{post.author}}</span>
-        </div>
-        
         <ul class="Nav">
           <li class="pos">
             <a href="/posts">
@@ -21,7 +12,14 @@
             </a>
           </li>
         </ul>
-        
+        <h1 class="title">
+          <u>
+            {{ post.hTitle }}
+          </u>
+        </h1>
+        <div class="a-cont">
+          <span class="author">{{post.author}}</span> · <span class="date">{{ formatDate(post.updatedAt) }}</span>
+        </div>        
         <nuxt-content :document="post" />
       </main>
     </center>

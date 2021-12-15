@@ -8,6 +8,16 @@ main {
     width: 100%;
 }
 
+.blackhover {
+    height: 40vh;
+}
+
+.header-bg {
+    background-size: cover !important;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
 .author {
     background-color: whitesmoke;
     color: #0D1B2A;
@@ -17,7 +27,7 @@ main {
 
 .content {
     width: 70%;
-    padding-top: 2rem;
+    padding-top: 1rem;
     margin-top: -4rem;
     margin-left: auto;
     margin-right: auto;
@@ -28,6 +38,8 @@ main {
 
 h1.title {
     text-align: left;
+    margin-top: 0;
+    padding-top: 0;
 }
 
 .a-cont {
@@ -57,4 +69,18 @@ h1.title {
 
 .nuxt-content blockquote {
     text-align: left;
+}
+
+.nuxt-content p {
+    text-align: left;
+}
+
+.nuxt-content a {
+    color: whitesmoke;
+    text-decoration: underline;
+}
+
+.nuxt-content a:hover {
+    color: whitesmoke;
+    text-decoration: none;
 }

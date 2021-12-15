@@ -8,7 +8,7 @@
         <ul class="listing">
             <li v-for="article of articles" :key="article.slug">
                 <div class="hover" :style="'background: url(' + article.thumbnail +');'">
-                    <div class="black">
+                    <div class="black blacko">
                         <NuxtLink :to="{ name: 'posts-slug', params: { slug: article.slug } }">
                             <h2 class="titletext">{{ article.title }}</h2>
                         </NuxtLink>

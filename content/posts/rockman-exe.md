@@ -1,14 +1,12 @@
 ---
 title: "[Spring 2002] Rockman.EXE"
+hTitle: รีวิวสั้นๆ หลังดู Rockman.EXE (Spring 2002)
 date: 1633058508347
 description: "รีวิวสั้นๆ หลังจากดู Rockman.EXE.."
 tag: Anime Review, Rockman Series
 author: Deth's
 thumbnail: https://box.lolis.love/0/pvjlq.jpg
 ---
-
-# รีวิวสั้นๆ หลังดู Rockman.EXE (Spring 2002)
-
 ถ้าให้ผมพูดเกี่ยวกับเรื่องนี้เลย ก็คงพูดได้แค่ว่าเป็นเรื่องที่ทำให้ผมคิดถึงมันมากๆ เพราะว่าเป็นเหมือนเรื่องที่อบู่ในใจผมมาตั้งแต่เด็กแล้วด้วย ทั้งด้วย Design ของตัวละคร และเรื่องของระบบต่างๆ ที่ใช้ในการต่อสู้ในเรื่องนี้โดยรวมที่ดูยอดเยี่ยมมากๆ เลยล่ะ
 <br />
 
@@ -17,6 +15,7 @@ thumbnail: https://box.lolis.love/0/pvjlq.jpg
 
 ### และใช่ครับ ผมหมายถึงไอนี่
 <img src="https://sv1.picz.in.th/images/2021/10/01/CLZIp8.jpg" width="300" />
+<br /><br />
 
 และยังมีอีก 6 ตอนสุดท้ายที่เหมือนเอามาให้คลายสมอง แต่ก็ทิ้งเรื่องเครื่อง PET ที่จะเอามาใช้ในภาค Axess และเรื่องของการทำโลก Cyber มารวมกับโลกจริงอีกทำให้ดูค่อยข้างหนักไปนิดนึง
 <br />
@@ -26,15 +25,15 @@ thumbnail: https://box.lolis.love/0/pvjlq.jpg
 <br />
 
 ## ป.ล. ใช่ครับ นางเอกเรื่องนี้ไม่ใช่เมล์จัง แต่เป็นเจ้าหญิงไพรด์ต่างหากล่ะ ฮ่าๆๆๆ!!
-<img src="https://sv1.picz.in.th/images/2021/10/01/CL1q8Z.png" width="200" />
+<img src="https://sv1.picz.in.th/images/2021/10/01/CL1q8Z.png" width="40%" />
 
 ### น่ารักไหมล่าาาา
-<img src="https://sv1.picz.in.th/images/2021/10/01/CL1QB0.png" width="200" />
+<img src="https://sv1.picz.in.th/images/2021/10/01/CL1QB0.png" width="40%" />
 
 ### ไหนจะเจ้าหนูเอนซันอีก
-<img src="https://sv1.picz.in.th/images/2021/10/01/CLKXMP.jpg" width="200" />
+<img src="https://sv1.picz.in.th/images/2021/10/01/CLKXMP.jpg" width="40%" />
 
 ## โคตรจะน่ารักเลยว้อยยยยย!!
+<br />
 
-
-![Score](https://img.shields.io/badge/Score-9%2F10-coral?style=for-the-badge)
+<img src="https://img.shields.io/badge/Score-9%2F10-coral?style=for-the-badge" alt="score">

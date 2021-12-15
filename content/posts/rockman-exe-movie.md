@@ -1,12 +1,12 @@
 ---
 title: "[Movie 2005] Rockman.EXE Movie: Hikari to Yami no Program"
+hTitle: "รีวิวสั้นๆ หลังดู Rockman.EXE Movie: Hikari to Yami no Program (Movie 2005)"
 date: 1633613284038
 description: "รีวิวสั้นๆ หลังจากดู Rockman.EXE Movie: Hikari to Yami no Program.."
 tag: Movie Review, Rockman Series
 author: Deth's
 thumbnail: https://sv1.picz.in.th/images/2021/12/14/6n1rxz.png
 ---
-# รีวิวสั้นๆ หลังดู Rockman.EXE Movie: Hikari to Yami no Program (Movie 2005)
 ในส่วนของเนื้อเรื่องเสริมนี้ คงพูดได้แค่ว่าภาพต่างๆ และ อะไรต่างๆ ดูดีขึ้น แต่ว่าเนื้อเรื่องกลับกลายเป็นน้ำแถมเนื้อเสียมากกว่า
 <br />
 
@@ -24,5 +24,6 @@ thumbnail: https://sv1.picz.in.th/images/2021/12/14/6n1rxz.png
 
 ## สรุป
 โดยรวมของเรื่องนี้ผมคงพูดได้ไม่เต็มปากว่ามันดีขนาดนั้นเพราะว่าหลายๆ องค์ประกอบก็ไม่ได้ดีมากขนาดที่ผมจะมาอวยอะไรได้ขนาดนั้นด้วย ฉะนั้นบทความนี้ก็น่าจะจบลงแค่นี้แหละครับ UwU
+<br /><br />
 
-![Score](https://img.shields.io/badge/Score-7%2F10-coral?style=for-the-badge)
+<img src="https://img.shields.io/badge/Score-7%2F10-coral?style=for-the-badge" alt="score">

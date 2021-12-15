@@ -22,5 +22,7 @@ thumbnail: https://sv1.picz.in.th/images/2021/11/30/6iKTxJ.jpg
 
 > สำหรับคนที่ได้เล่นเกมนี้จบแล้ว ก็คงจะรู้สึกได้ว่าหลายๆ อย่างมันจะขัดมากๆ เช่น ทำหน้าตาเหมือน Linux แต่ทำตัวไม่เหมือน Linux เพราะรันไฟล์ .exe ได้ กับ GUI ที่ไม่ค่อยใช่ GUI ซักเท่าไหร่ ทำให้แอบย้อนแย้งในตัวเองในตัวเองมากๆ 
 
-![Score](https://img.shields.io/badge/Score-8%2F10-coral?style=for-the-badge)
-![Play Time](https://img.shields.io/badge/PlayingTime-6.1Hr-whitesmoke?style=for-the-badge)
+<br />
+
+<img src="https://img.shields.io/badge/Score-8%2F10-coral?style=for-the-badge" alt="score">
+<img src="https://img.shields.io/badge/PlayingTime-6.1Hr-whitesmoke?style=for-the-badge" alt="playtime">

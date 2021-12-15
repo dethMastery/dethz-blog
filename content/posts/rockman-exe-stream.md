@@ -1,13 +1,12 @@
 ---
 title: "[Fall 2004] Rockman.EXE Stream"
+hTitle: รีวิวสั้นๆ หลังดู Rockman.EXE Stream (Fall 2004)
 date: 1633500089120
 description: "รีวิวสั้นๆ หลังจากดู Rockman.EXE Stream.."
 tag: Anime Review, Rockman Series
 author: Deth's
 thumbnail: https://sv1.picz.in.th/images/2021/12/14/6n1868.png
 ---
-# รีวิวสั้นๆ หลังดู Rockman.EXE Stream (Fall 2004)
-
 ถ้าให้พูดตรงๆ เลย ในส่วนของภาคนี้เป็นภาคที่จะเน้นหนักตรงส่วนของ Cross Fusion มากๆ ซึ่งมันทำเหมือนกับว่าไอ Synchro Chip มันเสกออกมาจากอากาศได้เลย ไหนจะในส่วนของ "ดาวหาง Duo" อีก แล้วก็เรื่องของ Dark Rockman แล้วก็ Forte อีก 
 
 <img src="https://sv1.picz.in.th/images/2021/10/06/uW7mOu.png" alt="dark rockman" width="400px" />
@@ -17,6 +16,7 @@ thumbnail: https://sv1.picz.in.th/images/2021/12/14/6n1868.png
 
 ## เนื้อเรื่อง
 ในส่วนของเนื้อเรื่องจริงๆ ในช่วง 30 ตอนแรกเหมือนเป็นการแนะนำตัวละคร และ การบุกมั่วๆ ซั่วๆ ของ Neo World Three แต่ถึงแม้จะมาช่วงองค์หลังแล้ว มันก็ยังมีส่วนของ Service ที่แทรกๆ เข้ามาเป็นพักๆ ซึ่ง ณ จุดนี้เป็นเรื่องที่ผมรู้สึกโอเคในระดับหนึ่ง เพราะมันทำให้เรื่องนั้นไม่รู้สึกกดดันมากเกินไป
+
 <img src="https://sv1.picz.in.th/images/2021/10/06/uWSYev.jpg" alt="service" width="400px" />
 
 และด้วยในเรื่องเป็น TimeLine ที่ห่างจากภาค Axess ไม่นานมากเท่าไหร่ แต่ก็ยังมี Hole ในหลายๆ จุดอยู่ เช่น "ในช่วงที่ Flashback กลับไปเมื่อ 20 ปีก่อน แต่ใช้งาน PET ของ Axess"
@@ -40,6 +40,7 @@ thumbnail: https://sv1.picz.in.th/images/2021/12/14/6n1868.png
 
 ## ป.ล.
 ### ภาคนี้ไพร์ดออกเยอะนะ แต่ไม่ได้ทัชใจเท่าน้องจัสมินเลย
+
 <img src="https://sv1.picz.in.th/images/2021/10/05/CI8mRn.jpg" alt="jasmine" width="500px" /> 
 <center>
 เนี่ยยยย น้องออกจะน่ารัก
@@ -49,8 +50,11 @@ thumbnail: https://sv1.picz.in.th/images/2021/12/14/6n1868.png
 <center>
 มี Scene คู่ด้วยนะเออ
 </center>
-
+<br /><br />
+<center>
 พอตัดมาฝั่งไพร์ด
+</center>
+
 <img src="https://sv1.picz.in.th/images/2021/10/06/uW5ziJ.png" alt="pScene" width="550px" />
 <center>
 โผล่มาก็กอดกันเลยยยยยย
@@ -65,6 +69,6 @@ thumbnail: https://sv1.picz.in.th/images/2021/12/14/6n1868.png
 <center>
 ส่วนนี่คือหน้าของคนที่นก
 </center>
-<br />
+<br /><br />
 
-![Score](https://img.shields.io/badge/Score-8%2F10-coral?style=for-the-badge)
+<img src="https://img.shields.io/badge/Score-8%2F10-coral?style=for-the-badge" alt="score">
