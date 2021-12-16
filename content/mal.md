@@ -30,6 +30,7 @@ date: 0
 |Keroro Gunsou Movie 2: Shinkai no Princess de Arimasu!|Movie 2007|10/10|[Click](https://myanimelist.net/anime/2408/Keroro_Gunsou_Movie_2__Shinkai_no_Princess_de_Arimasu)|
 |Busou Renkin|Fall 2006|9/10|[Click](https://myanimelist.net/anime/1536/Busou_Renkin)|
 |Darwin's Game|Winter 2020|9/10|[Click](https://myanimelist.net/anime/38656/Darwins_Game)|
+|Stand By Me Doraemon|Winter 2014|9/10|[Click](https://myanimelist.net/anime/21469/Stand_By_Me_Doraemon?q=stand%20by%20me&cat=anime)|
 |Gintama: The Final|Movie 2021|9/10|[Click](https://myanimelist.net/anime/39486/Gintama__The_Final)|
 |Kimi no Nawa|Movie 2016|9/10|[Click](https://myanimelist.net/anime/32281/Kimi_no_Na_wa)|
 |Keroro Gunsou Movie 3: Tenkuu Daikessen de Arimasu!|Movie 2008|9/10|[Click](https://myanimelist.net/anime/5290/Keroro_Gunsou_Movie_3__Tenkuu_Daikessen_de_Arimasu)|
@@ -47,6 +48,7 @@ date: 0
 |Summer Wars|Movie 2009|8/10|[Click](https://myanimelist.net/anime/5681/Summer_Wars)|
 |Tensei shitara Slime Datta Ken 2nd Season|Winter 2021|8/10|[Click](https://myanimelist.net/anime/39551/Tensei_shitara_Slime_Datta_Ken_2nd_Season)|
 |The God of High School|Summer 2020|8/10|[Click](https://myanimelist.net/anime/41353/The_God_of_High_School)|
+|Doraemon Movie 40: Nobita no Shin Kyouryuu|Movie 2020|7/10|[Click](https://myanimelist.net/anime/40044/Doraemon_Movie_40__Nobita_no_Shin_Kyouryuu)|
 |Keroro Gunsou Movie 5: Tanjou! Kyuukyoku Keroro, Kiseki no Jikuu-jima, de Arimasu!!|Movie 2010|7/10|[Click](https://myanimelist.net/anime/8134/Keroro_Gunsou_Movie_5__Tanjou_Kyuukyoku_Keroro_Kiseki_no_Jikuu-jima_de_Arimasu)|
 |Magic Kaito|Special 2010|7/10|[Click](https://myanimelist.net/anime/8310/Magic_Kaito)|
 |Masamune-kun no Revenge|Winter 2017|7/10|[Click](https://myanimelist.net/anime/33487/Masamune-kun_no_Revenge)|
