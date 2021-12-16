@@ -84,3 +84,9 @@ h1.title {
     color: whitesmoke;
     text-decoration: none;
 }
+
+@media only screen and (max-width: 800px) {
+    .content {
+        width: 90%;
+    }
+}

@@ -10,6 +10,9 @@
             <li>
                 <a href="/MAL">MAL Scoreboard</a>
             </li>
+            <li>
+                <a href="/Game">Hall of Game</a>
+            </li>
         </ul>
     </div>
 </template>
