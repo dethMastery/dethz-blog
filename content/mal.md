@@ -30,7 +30,8 @@ date: 0
 |Keroro Gunsou Movie 2: Shinkai no Princess de Arimasu!|Movie 2007|10/10|[Click](https://myanimelist.net/anime/2408/Keroro_Gunsou_Movie_2__Shinkai_no_Princess_de_Arimasu)|
 |Busou Renkin|Fall 2006|9/10|[Click](https://myanimelist.net/anime/1536/Busou_Renkin)|
 |Darwin's Game|Winter 2020|9/10|[Click](https://myanimelist.net/anime/38656/Darwins_Game)|
-|Stand By Me Doraemon|Winter 2014|9/10|[Click](https://myanimelist.net/anime/21469/Stand_By_Me_Doraemon?q=stand%20by%20me&cat=anime)|
+|Stand By Me Doraemon|Movie 2014|9/10|[Click](https://myanimelist.net/anime/21469/Stand_By_Me_Doraemon)|
+|Stand By Me Doraemon 2|Movie 2020|9/10|[Click](https://myanimelist.net/anime/40853/Stand_By_Me_Doraemon_2)|
 |Gintama: The Final|Movie 2021|9/10|[Click](https://myanimelist.net/anime/39486/Gintama__The_Final)|
 |Kimi no Nawa|Movie 2016|9/10|[Click](https://myanimelist.net/anime/32281/Kimi_no_Na_wa)|
 |Keroro Gunsou Movie 3: Tenkuu Daikessen de Arimasu!|Movie 2008|9/10|[Click](https://myanimelist.net/anime/5290/Keroro_Gunsou_Movie_3__Tenkuu_Daikessen_de_Arimasu)|
