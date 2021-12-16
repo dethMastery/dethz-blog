@@ -13,7 +13,7 @@
 <style>
 @import url(./style/based.css);
 @import url(./style/Nav.css);
-@import url(./style/mal.css);
+@import url(./style/game.css);
 </style>
 
 <script>

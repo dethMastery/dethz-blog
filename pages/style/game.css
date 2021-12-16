@@ -1,0 +1,34 @@
+.nuxt-content table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    text-align: center;
+    border-collapse: collapse;
+    border: 1px solid whitesmoke;
+}
+
+.nuxt-content th {
+    padding: 0;
+    margin: 0;
+    padding-top: 0.5rem !important;
+    padding-bottom: 0.5rem !important;
+    font-size: 24px;
+    border: 1px solid whitesmoke;
+}
+
+.nuxt-content td {
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    font-size: 18px;
+    border-left: 1px solid whitesmoke;
+}
+
+.nuxt-content a {
+    color: whitesmoke;
+    text-decoration: underline;
+}
+
+.nuxt-content a:hover {
+    color: whitesmoke;
+    text-decoration: none;
+}
