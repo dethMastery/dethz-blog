@@ -12,6 +12,12 @@
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
+
+    transition: .3s;
+}
+
+.listing .hover:hover {
+    transform: scale(1.03, 1.03);
 }
 
 .listing li a {
