@@ -38,7 +38,7 @@ date: 0
 |Keroro Gunsou Movie 4: Gekishin Dragon Warriors de Arimasu!|Movie 2009|9/10|[Click](https://myanimelist.net/anime/5710/Keroro_Gunsou_Movie_4__Gekishin_Dragon_Warriors_de_Arimasu)|
 |Kobayashi-san Chi no Maid Dragon|Winter 2017|9/10|[Click](https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon)|
 |Kobayashi-san Chi no Maid Dragon S|Spring 2019|9/10|[Click](https://myanimelist.net/anime/39247/Kobayashi-san_Chi_no_Maid_Dragon_S)|
-|Battle Spirits: Shounen Toppa Bashin|Winter 2016|8/10|[Click](https://myanimelist.net/anime/5082/Battle_Spirits__Shounen_Toppa_Bashin)|
+|Battle Spirits: Shounen Toppa Bashin|Fall 2008|8/10|[Click](https://myanimelist.net/anime/5082/Battle_Spirits__Shounen_Toppa_Bashin)|
 |Boku dake ga Inai Machi|Fall 2008|8/10|[Click](https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi)|
 |Digimon Adventure: Last Evolution Kizuna|Movie 2020|8/10|[Click](https://myanimelist.net/anime/38088/Digimon_Adventure__Last_Evolution_Kizuna)|
 |Fullmetal Alchemist: Brotherhood|Spring 2009|8/10|[Click](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)|
