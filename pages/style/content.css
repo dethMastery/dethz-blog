@@ -38,13 +38,16 @@ main {
 
 h1.title {
     text-align: left;
+    padding-left: 0 ;
+    margin-left: 2rem;
+    margin-right: 2rem;
     margin-top: 0;
     padding-top: 0;
 }
 
 .a-cont {
     text-align: left !important;
-    padding-left: 4rem;
+    padding-left: 3rem;
 }
 
 .nav {
