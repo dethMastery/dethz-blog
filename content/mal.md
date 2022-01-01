@@ -10,7 +10,6 @@ date: 0
 |---|---|---|---|
 |[Ryuusei no Rockman](./posts/ryuusei-no-rockman)|Fall 2006|10/10|[Click](https://myanimelist.net/anime/1835/Ryuusei_no_Rockman)|
 |[Yamada-kun to 7-nin no Majo](./posts/yamada-kun-to-7-nin-no-majo)|Spring 2015|10/10|[Click](https://myanimelist.net/anime/28677/Yamada-kun_to_7-nin_no_Majo_TV)|
-| [Stand By Me Doraemon 2](./posts/StandByMe2) |Movie 2020|9/10|[Click](https://myanimelist.net/anime/40853/Stand_By_Me_Doraemon_2)|
 |[Kaze no Stigma](./posts/kaze-no-stigma)|Spring 2007|9/10|[Click](https://myanimelist.net/anime/1691/Kaze_no_Stigma)|
 |[Rockman.EXE](./posts/rockman-exe)|Spring 2002|9/10|[Click](https://myanimelist.net/anime/1710/RockmanEXE)|
 |[Rockman.EXE Beast](./posts/rockman-exe-beast)|Fall 2005|9/10|[Click](https://myanimelist.net/anime/2110/RockmanEXE_Beast)|
@@ -33,6 +32,7 @@ date: 0
 |Busou Renkin|Fall 2006|9/10|[Click](https://myanimelist.net/anime/1536/Busou_Renkin)|
 |Darwin's Game|Winter 2020|9/10|[Click](https://myanimelist.net/anime/38656/Darwins_Game)|
 |Stand By Me Doraemon|Movie 2014|9/10|[Click](https://myanimelist.net/anime/21469/Stand_By_Me_Doraemon)|
+|Stand By Me Doraemon 2|Movie 2020|9/10|[Click](https://myanimelist.net/anime/40853/Stand_By_Me_Doraemon_2)|
 |Gintama: The Final|Movie 2021|9/10|[Click](https://myanimelist.net/anime/39486/Gintama__The_Final)|
 |Kimi no Nawa|Movie 2016|9/10|[Click](https://myanimelist.net/anime/32281/Kimi_no_Na_wa)|
 |Keroro Gunsou Movie 3: Tenkuu Daikessen de Arimasu!|Movie 2008|9/10|[Click](https://myanimelist.net/anime/5290/Keroro_Gunsou_Movie_3__Tenkuu_Daikessen_de_Arimasu)|
