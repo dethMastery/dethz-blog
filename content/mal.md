@@ -29,6 +29,7 @@ date: 0
 |Name|Season|Score|MAL|
 |---|---|---|---|
 |Keroro Gunsou Movie 2: Shinkai no Princess de Arimasu!|Movie 2007|10/10|[Click](https://myanimelist.net/anime/2408/Keroro_Gunsou_Movie_2__Shinkai_no_Princess_de_Arimasu)|
+|Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai|Fall 2018|10/10|[Click](https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai)|
 |Busou Renkin|Fall 2006|9/10|[Click](https://myanimelist.net/anime/1536/Busou_Renkin)|
 |Darwin's Game|Winter 2020|9/10|[Click](https://myanimelist.net/anime/38656/Darwins_Game)|
 |Stand By Me Doraemon|Movie 2014|9/10|[Click](https://myanimelist.net/anime/21469/Stand_By_Me_Doraemon)|
