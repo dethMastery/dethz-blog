@@ -15,6 +15,7 @@ date: 0
 |[Rockman.EXE Beast](./posts/rockman-exe-beast)|Fall 2005|9/10|[Click](https://myanimelist.net/anime/2110/RockmanEXE_Beast)|
 |[Ryuusei no Rockman Tribe](./posts/ryuusei-no-rockman-tribe)|Fall 2007|9/10|[Click](https://myanimelist.net/anime/3493/Ryuusei_no_Rockman_Tribe)|
 |[SSSS.Dynazenon](./posts/ssss-dynazenon)|Spring 2021|9/10|[Click](https://myanimelist.net/anime/40870/SSSSDynazenon)|
+|[07-Ghost](./posts/07ghost)|Spring 2009|8/10|[Click](https://myanimelist.net/anime/5525/07-Ghost)|
 |[Rockman.EXE Axess](./posts/rockman-exe-axess)|Fall 2003|8/10|[Click](https://myanimelist.net/anime/2108/RockmanEXE_Axess)|
 |[Rockman.EXE Stream](./posts/rockman-exe-stream)|Fall 2004|8/10|[Click](https://myanimelist.net/anime/2109/RockmanEXE_Stream)|
 |[SSSS.Gridman](./posts/ssss-gridman)|Fall 2018|8/10|[Click](https://myanimelist.net/anime/35847/SSSSGridman)|
@@ -42,7 +43,6 @@ date: 0
 |Komi-san wa, Comyushou desu.|Fall 2021|9/10|[Click](https://myanimelist.net/anime/48926/Komi-san_wa_Comyushou_desu)|
 |Shijou Saikyou no Deshi Kenichi|Fall 2006|9/10|[Click](https://myanimelist.net/anime/1559/Shijou_Saikyou_no_Deshi_Kenichi)|
 |Tiger & Bunny|Spring 2011|9/10|[Click](https://myanimelist.net/anime/9941/Tiger___Bunny)|
-|07-Ghost|Spring 2009|8/10|[Click](https://myanimelist.net/anime/5525/07-Ghost)|
 |Battle Spirits: Shounen Toppa Bashin|Fall 2008|8/10|[Click](https://myanimelist.net/anime/5082/Battle_Spirits__Shounen_Toppa_Bashin)|
 |Boku dake ga Inai Machi|Fall 2008|8/10|[Click](https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi)|
 |Detective Conan Movie 21: The Crimson Love Letter|Movie 2017|8/10|[Click](https://myanimelist.net/anime/34430/Detective_Conan_Movie_21__The_Crimson_Love_Letter)|
