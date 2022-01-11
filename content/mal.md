@@ -34,15 +34,21 @@ date: 0
 |Stand By Me Doraemon|Movie 2014|9/10|[Click](https://myanimelist.net/anime/21469/Stand_By_Me_Doraemon)|
 |Stand By Me Doraemon 2|Movie 2020|9/10|[Click](https://myanimelist.net/anime/40853/Stand_By_Me_Doraemon_2)|
 |Gintama: The Final|Movie 2021|9/10|[Click](https://myanimelist.net/anime/39486/Gintama__The_Final)|
-|Kimi no Nawa|Movie 2016|9/10|[Click](https://myanimelist.net/anime/32281/Kimi_no_Na_wa)|
 |Keroro Gunsou Movie 3: Tenkuu Daikessen de Arimasu!|Movie 2008|9/10|[Click](https://myanimelist.net/anime/5290/Keroro_Gunsou_Movie_3__Tenkuu_Daikessen_de_Arimasu)|
 |Keroro Gunsou Movie 4: Gekishin Dragon Warriors de Arimasu!|Movie 2009|9/10|[Click](https://myanimelist.net/anime/5710/Keroro_Gunsou_Movie_4__Gekishin_Dragon_Warriors_de_Arimasu)|
+|Kimi no Nawa|Movie 2016|9/10|[Click](https://myanimelist.net/anime/32281/Kimi_no_Na_wa)|
 |Kobayashi-san Chi no Maid Dragon|Winter 2017|9/10|[Click](https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon)|
 |Kobayashi-san Chi no Maid Dragon S|Spring 2019|9/10|[Click](https://myanimelist.net/anime/39247/Kobayashi-san_Chi_no_Maid_Dragon_S)|
+|Komi-san wa, Comyushou desu.|Fall 2021|9/10|[Click](https://myanimelist.net/anime/48926/Komi-san_wa_Comyushou_desu)|
+|Shijou Saikyou no Deshi Kenichi|Fall 2006|9/10|[Click](https://myanimelist.net/anime/1559/Shijou_Saikyou_no_Deshi_Kenichi)|
+|Tiger & Bunny|Spring 2011|9/10|[Click](https://myanimelist.net/anime/9941/Tiger___Bunny)|
+|07-Ghost|Spring 2009|8/10|[Click](https://myanimelist.net/anime/5525/07-Ghost)|
 |Battle Spirits: Shounen Toppa Bashin|Fall 2008|8/10|[Click](https://myanimelist.net/anime/5082/Battle_Spirits__Shounen_Toppa_Bashin)|
 |Boku dake ga Inai Machi|Fall 2008|8/10|[Click](https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi)|
+|Detective Conan Movie 21: The Crimson Love Letter|Movie 2017|8/10|[Click](https://myanimelist.net/anime/34430/Detective_Conan_Movie_21__The_Crimson_Love_Letter)|
 |Digimon Adventure: Last Evolution Kizuna|Movie 2020|8/10|[Click](https://myanimelist.net/anime/38088/Digimon_Adventure__Last_Evolution_Kizuna)|
 |Fullmetal Alchemist: Brotherhood|Spring 2009|8/10|[Click](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)|
+|Ijiranaide, Nagatoro-san|Spring 2021|8/10|[Click](https://myanimelist.net/anime/42361/Ijiranaide_Nagatoro-san)|
 |Kenja no Mago|Spring 2019|8/10|[Click](https://myanimelist.net/anime/36407/Kenja_no_Mago)|
 |Keroro Gunsou Movie 1|Movie 2006|8/10|[Click](https://myanimelist.net/anime/2407/Keroro_Gunsou_Movie_1)|
 |Noragami|Winter 2014|8/10|[Click](https://myanimelist.net/anime/20507/Noragami)|
@@ -50,6 +56,7 @@ date: 0
 |Summer Wars|Movie 2009|8/10|[Click](https://myanimelist.net/anime/5681/Summer_Wars)|
 |Tensei shitara Slime Datta Ken 2nd Season|Winter 2021|8/10|[Click](https://myanimelist.net/anime/39551/Tensei_shitara_Slime_Datta_Ken_2nd_Season)|
 |The God of High School|Summer 2020|8/10|[Click](https://myanimelist.net/anime/41353/The_God_of_High_School)|
+|Digimon Xros Wars: Toki wo Kakeru Shounen Hunter-tachi|Fall 2011|7/10|[Click](https://myanimelist.net/anime/11385/Digimon_Xros_Wars__Toki_wo_Kakeru_Shounen_Hunter-tachi)|
 |Doraemon Movie 40: Nobita no Shin Kyouryuu|Movie 2020|7/10|[Click](https://myanimelist.net/anime/40044/Doraemon_Movie_40__Nobita_no_Shin_Kyouryuu)|
 |Keroro Gunsou Movie 5: Tanjou! Kyuukyoku Keroro, Kiseki no Jikuu-jima, de Arimasu!!|Movie 2010|7/10|[Click](https://myanimelist.net/anime/8134/Keroro_Gunsou_Movie_5__Tanjou_Kyuukyoku_Keroro_Kiseki_no_Jikuu-jima_de_Arimasu)|
 |Magic Kaito|Special 2010|7/10|[Click](https://myanimelist.net/anime/8310/Magic_Kaito)|
