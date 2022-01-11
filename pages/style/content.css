@@ -34,6 +34,8 @@ main {
     background-color: #415A77;
     height: auto !important;
     border-radius: 1rem;
+    border-bottom-left-radius: 0% !important;
+    border-bottom-right-radius: 0% !important;
 }
 
 h1.title {
