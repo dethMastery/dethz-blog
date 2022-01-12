@@ -57,6 +57,7 @@ date: 0
 |Tensei shitara Slime Datta Ken 2nd Season|Winter 2021|8/10|[Click](https://myanimelist.net/anime/39551/Tensei_shitara_Slime_Datta_Ken_2nd_Season)|
 |The God of High School|Summer 2020|8/10|[Click](https://myanimelist.net/anime/41353/The_God_of_High_School)|
 |Digimon Xros Wars: Toki wo Kakeru Shounen Hunter-tachi|Fall 2011|7/10|[Click](https://myanimelist.net/anime/11385/Digimon_Xros_Wars__Toki_wo_Kakeru_Shounen_Hunter-tachi)|
+|Dokyuu Hentai HxEros|Summer 2020|7/10|[Click](https://myanimelist.net/anime/40623/Dokyuu_Hentai_HxEros)|
 |Doraemon Movie 40: Nobita no Shin Kyouryuu|Movie 2020|7/10|[Click](https://myanimelist.net/anime/40044/Doraemon_Movie_40__Nobita_no_Shin_Kyouryuu)|
 |Keroro Gunsou Movie 5: Tanjou! Kyuukyoku Keroro, Kiseki no Jikuu-jima, de Arimasu!!|Movie 2010|7/10|[Click](https://myanimelist.net/anime/8134/Keroro_Gunsou_Movie_5__Tanjou_Kyuukyoku_Keroro_Kiseki_no_Jikuu-jima_de_Arimasu)|
 |Magic Kaito|Special 2010|7/10|[Click](https://myanimelist.net/anime/8310/Magic_Kaito)|
@@ -64,3 +65,4 @@ date: 0
 |Persona 5 the Animation|Spring 2018|7/10|[Click](https://myanimelist.net/anime/36023/Persona_5_the_Animation)|
 |Servamp Movie: Alice in the Garden|Movie 2018|7/10|[Click](https://myanimelist.net/anime/36803/Servamp_Movie__Alice_in_the_Garden)|
 |Tensei shitara Slime Datta Ken 2nd Season Part 2|Summer 2021|7/10|[Click](https://myanimelist.net/anime/41487/Tensei_shitara_Slime_Datta_Ken_2nd_Season_Part_2)|
+|Dokyuu Hentai HxEros|OVA 2020|5/10|[Click](https://myanimelist.net/anime/42803/Dokyuu_Hentai_HxEros_OVA)|
