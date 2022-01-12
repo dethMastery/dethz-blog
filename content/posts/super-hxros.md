@@ -29,6 +29,21 @@ thumbnail: https://sv1.picz.in.th/images/2022/01/13/nciXs1.png
 <br />
 
 ## ป.ล.
+<br />
+
+<img src="https://sv1.picz.in.th/images/2022/01/13/ncxjDv.png" alt="story" class="img-w-desp" width="80%" />
+<center>จริงๆ ก็หวังให้คู่นี้ได้คบกันดี ๆ นะ</center>
+<br />
+<br />
+
+<img src="https://sv1.picz.in.th/images/2022/01/13/ncQmUQ.png" alt="story" class="img-w-desp" width="80%" />
+<center>อีกใจก็แอบหวังคู่นี้อยู่</center>
+<br />
+<br />
+
+<img src="https://sv1.picz.in.th/images/2022/01/13/ncxAEV.png" alt="story" class="img-w-desp" width="80%" />
+<center>แต่ใด ๆ ก็ตาม น้องไมฮิเมะน่ารักมากกกกก</center>
+<br />
 
 <br />
 <br />
