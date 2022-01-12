@@ -3,7 +3,7 @@
 html, body {
   height: 100%;
 }
-body {
+#appErr {
   display: flex;
   justify-content: center;
   align-items: center;

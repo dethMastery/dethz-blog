@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="appErr">
     <div class="gradient-border" id="box">
       <center>
         Sorry, But <br />
