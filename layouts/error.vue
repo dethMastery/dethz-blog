@@ -1,6 +1,6 @@
 <template>
   <div id="appErr">
-    <div class="gradient-border" id="box">
+    <div class="gradient-border" id="boxoo">
       <center>
         Sorry, But <br />
         There're <br />
