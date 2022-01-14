@@ -1,5 +1,5 @@
 ---
-title: "[Spring 2009] 07-Ghost"
+title: "[Spring 2009] 07-Ghost (พรตมารทั้ง 7)"
 hTitle: รีวิวสั้นๆ หลังดู 07-Ghost (Spring 2009)
 date: 1641918513167
 description: "รีวิวสั้นๆ หลังจากดู 07-Ghost.."

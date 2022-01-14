@@ -1,5 +1,5 @@
 ---
-title: "[Spring 2015] Yamada-kun to 7-nin no Majo"
+title: "[Spring 2015] Yamada-kun to 7-nin no Majo (ยามาดะคุงกับแม่มดทั้ง 7)"
 hTitle: รีวิวสั้นๆ หลังดู Yamada-kun to 7-nin no Majo (Spring 2015)
 date: 1636496224605
 description: "รีวิวสั้นๆ หลังจากดู Yamada-kun to 7-nin no Majo.."
