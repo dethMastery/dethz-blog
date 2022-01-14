@@ -16,10 +16,11 @@ date: 0
 |[Ryuusei no Rockman Tribe](./posts/ryuusei-no-rockman-tribe)|Fall 2007|9/10|[Click](https://myanimelist.net/anime/3493/Ryuusei_no_Rockman_Tribe)|
 |[SSSS.Dynazenon](./posts/ssss-dynazenon)|Spring 2021|9/10|[Click](https://myanimelist.net/anime/40870/SSSSDynazenon)|
 |[07-Ghost](./posts/07ghost)|Spring 2009|8/10|[Click](https://myanimelist.net/anime/5525/07-Ghost)|
+|[Ijiranaide, Nagatoro-san](./posts/nagatoro-san)|Spring 2021|8/10|[Click](https://myanimelist.net/anime/42361/Ijiranaide_Nagatoro-san)|
 |[Rockman.EXE Axess](./posts/rockman-exe-axess)|Fall 2003|8/10|[Click](https://myanimelist.net/anime/2108/RockmanEXE_Axess)|
 |[Rockman.EXE Stream](./posts/rockman-exe-stream)|Fall 2004|8/10|[Click](https://myanimelist.net/anime/2109/RockmanEXE_Stream)|
 |[SSSS.Gridman](./posts/ssss-gridman)|Fall 2018|8/10|[Click](https://myanimelist.net/anime/35847/SSSSGridman)|
-|[Dokyuu Hentai HxEros](./posts/super-hxros)|Summer 2020|7/10|[Click](https://myanimelist.net/anime/40623/Dokyuu_Hentai_HxEros)|
+|[Dokyuu Hentai HxEros](./posts/super-hxeros)|Summer 2020|7/10|[Click](https://myanimelist.net/anime/40623/Dokyuu_Hentai_HxEros)|
 |[Rockman.EXE Movie: Hikari to Yami no Program](./posts/rockman-exe-movie)|Movie 2005|7/10|[Click](https://myanimelist.net/anime/2111/RockmanEXE_Movie__Hikari_to_Yami_no_Program)|
 |[Bounen no Xamdou](./posts/bounen-no-xamdou)|ONA 2008|6/10|[Click](https://myanimelist.net/anime/4177/Bounen_no_Xamdou)|
 |[Zettai Muteki Raijin-Oh](./posts/raijin-oh)|Spring 1991|5/10|[Click](https://myanimelist.net/anime/1897/Zettai_Muteki_Raijin-Oh)|
@@ -50,7 +51,6 @@ date: 0
 |Detective Conan Movie 21: The Crimson Love Letter|Movie 2017|8/10|[Click](https://myanimelist.net/anime/34430/Detective_Conan_Movie_21__The_Crimson_Love_Letter)|
 |Digimon Adventure: Last Evolution Kizuna|Movie 2020|8/10|[Click](https://myanimelist.net/anime/38088/Digimon_Adventure__Last_Evolution_Kizuna)|
 |Fullmetal Alchemist: Brotherhood|Spring 2009|8/10|[Click](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)|
-|Ijiranaide, Nagatoro-san|Spring 2021|8/10|[Click](https://myanimelist.net/anime/42361/Ijiranaide_Nagatoro-san)|
 |Kenja no Mago|Spring 2019|8/10|[Click](https://myanimelist.net/anime/36407/Kenja_no_Mago)|
 |Keroro Gunsou Movie 1|Movie 2006|8/10|[Click](https://myanimelist.net/anime/2407/Keroro_Gunsou_Movie_1)|
 |Noragami|Winter 2014|8/10|[Click](https://myanimelist.net/anime/20507/Noragami)|
