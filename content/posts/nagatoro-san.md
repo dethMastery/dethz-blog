@@ -16,6 +16,7 @@ thumbnail: https://sv1.picz.in.th/images/2022/01/14/nR7qhE.png
   <summary> <u>Spoiler</u> </summary> 
   จริง ๆ หลาย ๆ อย่างก็แอบดูน่ารำคาญเหมือนกัน เพราะว่า บางทีหลาย ๆ อย่างก็วนไปวนมาเกินไปนั่นแหละครับ
 </details>
+<br />
 
 <img src="https://sv1.picz.in.th/images/2022/01/14/nRkR1Z.png" alt="story" class="img-w-desp" width="70%" />
 <center>เล่นอะไรทะเล้น ๆ ทั้งเรื่อง</center>
