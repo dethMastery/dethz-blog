@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:200');
 
 html, body {
-  height: 100%;
+  width: 100%;
 }
 #appErr {
   display: flex;
+  height: 100vh;
   justify-content: center;
   align-items: center;
-  height: 100%;
   background: #1D1F20;
 }
 #boxoo {
