@@ -20,6 +20,7 @@ date: 0
 |[Rockman.EXE Axess](./posts/rockman-exe-axess)|Fall 2003|8/10|[Click](https://myanimelist.net/anime/2108/RockmanEXE_Axess)|
 |[Rockman.EXE Stream](./posts/rockman-exe-stream)|Fall 2004|8/10|[Click](https://myanimelist.net/anime/2109/RockmanEXE_Stream)|
 |[SSSS.Gridman](./posts/ssss-gridman)|Fall 2018|8/10|[Click](https://myanimelist.net/anime/35847/SSSSGridman)|
+|[Tegami Bachi](./posts/letter-bee)|Fall 2009|8/10|[Click](https://myanimelist.net/anime/6444/Tegamibachi)|
 |[Dokyuu Hentai HxEros](./posts/super-hxeros)|Summer 2020|7/10|[Click](https://myanimelist.net/anime/40623/Dokyuu_Hentai_HxEros)|
 |[Rockman.EXE Movie: Hikari to Yami no Program](./posts/rockman-exe-movie)|Movie 2005|7/10|[Click](https://myanimelist.net/anime/2111/RockmanEXE_Movie__Hikari_to_Yami_no_Program)|
 |[Bounen no Xamdou](./posts/bounen-no-xamdou)|ONA 2008|6/10|[Click](https://myanimelist.net/anime/4177/Bounen_no_Xamdou)|
