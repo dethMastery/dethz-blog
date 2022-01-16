@@ -66,3 +66,4 @@ date: 0
 |Persona 5 the Animation|Spring 2018|7/10|[Click](https://myanimelist.net/anime/36023/Persona_5_the_Animation)|
 |Servamp Movie: Alice in the Garden|Movie 2018|7/10|[Click](https://myanimelist.net/anime/36803/Servamp_Movie__Alice_in_the_Garden)|
 |Tensei shitara Slime Datta Ken 2nd Season Part 2|Summer 2021|7/10|[Click](https://myanimelist.net/anime/41487/Tensei_shitara_Slime_Datta_Ken_2nd_Season_Part_2)|
+|Tegamibashi Gakuen|Special 2009|6/10|[Click](https://myanimelist.net/anime/8022/Tegamibachi_Gakuen)|
