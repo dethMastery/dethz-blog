@@ -49,6 +49,7 @@ date: 0
 |Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru|Fall 2019|9/10|[Click](https://myanimelist.net/anime/38659/Shinchou_Yuusha__Kono_Yuusha_ga_Ore_Tueee_Kuse_ni_Shinchou_Sugiru)|
 |Stand By Me Doraemon|Movie 2014|9/10|[Click](https://myanimelist.net/anime/21469/Stand_By_Me_Doraemon)|
 |Stand By Me Doraemon 2|Movie 2020|9/10|[Click](https://myanimelist.net/anime/40853/Stand_By_Me_Doraemon_2)|
+|Tegamibachi Reverse|Fall 2010|9/10|[Click](https://myanimelist.net/anime/8311/Tegamibachi_Reverse)|
 |Tiger & Bunny|Spring 2011|9/10|[Click](https://myanimelist.net/anime/9941/Tiger___Bunny)|
 |Battle Spirits: Shounen Toppa Bashin|Fall 2008|8/10|[Click](https://myanimelist.net/anime/5082/Battle_Spirits__Shounen_Toppa_Bashin)|
 |Boku dake ga Inai Machi|Fall 2008|8/10|[Click](https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi)|
