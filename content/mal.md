@@ -38,8 +38,6 @@ date: 0
 |Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai|Fall 2018|10/10|[Click](https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai)|
 |Busou Renkin|Fall 2006|9/10|[Click](https://myanimelist.net/anime/1536/Busou_Renkin)|
 |Darwin's Game|Winter 2020|9/10|[Click](https://myanimelist.net/anime/38656/Darwins_Game)|
-|Stand By Me Doraemon|Movie 2014|9/10|[Click](https://myanimelist.net/anime/21469/Stand_By_Me_Doraemon)|
-|Stand By Me Doraemon 2|Movie 2020|9/10|[Click](https://myanimelist.net/anime/40853/Stand_By_Me_Doraemon_2)|
 |Gintama: The Final|Movie 2021|9/10|[Click](https://myanimelist.net/anime/39486/Gintama__The_Final)|
 |Keroro Gunsou Movie 3: Tenkuu Daikessen de Arimasu!|Movie 2008|9/10|[Click](https://myanimelist.net/anime/5290/Keroro_Gunsou_Movie_3__Tenkuu_Daikessen_de_Arimasu)|
 |Keroro Gunsou Movie 4: Gekishin Dragon Warriors de Arimasu!|Movie 2009|9/10|[Click](https://myanimelist.net/anime/5710/Keroro_Gunsou_Movie_4__Gekishin_Dragon_Warriors_de_Arimasu)|
@@ -48,6 +46,9 @@ date: 0
 |Kobayashi-san Chi no Maid Dragon S|Spring 2019|9/10|[Click](https://myanimelist.net/anime/39247/Kobayashi-san_Chi_no_Maid_Dragon_S)|
 |Komi-san wa, Comyushou desu.|Fall 2021|9/10|[Click](https://myanimelist.net/anime/48926/Komi-san_wa_Comyushou_desu)|
 |Shijou Saikyou no Deshi Kenichi|Fall 2006|9/10|[Click](https://myanimelist.net/anime/1559/Shijou_Saikyou_no_Deshi_Kenichi)|
+|Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru|Fall 2019|9/10|[Click](https://myanimelist.net/anime/38659/Shinchou_Yuusha__Kono_Yuusha_ga_Ore_Tueee_Kuse_ni_Shinchou_Sugiru)|
+|Stand By Me Doraemon|Movie 2014|9/10|[Click](https://myanimelist.net/anime/21469/Stand_By_Me_Doraemon)|
+|Stand By Me Doraemon 2|Movie 2020|9/10|[Click](https://myanimelist.net/anime/40853/Stand_By_Me_Doraemon_2)|
 |Tiger & Bunny|Spring 2011|9/10|[Click](https://myanimelist.net/anime/9941/Tiger___Bunny)|
 |Battle Spirits: Shounen Toppa Bashin|Fall 2008|8/10|[Click](https://myanimelist.net/anime/5082/Battle_Spirits__Shounen_Toppa_Bashin)|
 |Boku dake ga Inai Machi|Fall 2008|8/10|[Click](https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi)|
@@ -63,6 +64,9 @@ date: 0
 |The God of High School|Summer 2020|8/10|[Click](https://myanimelist.net/anime/41353/The_God_of_High_School)|
 |Digimon Xros Wars: Toki wo Kakeru Shounen Hunter-tachi|Fall 2011|7/10|[Click](https://myanimelist.net/anime/11385/Digimon_Xros_Wars__Toki_wo_Kakeru_Shounen_Hunter-tachi)|
 |Doraemon Movie 40: Nobita no Shin Kyouryuu|Movie 2020|7/10|[Click](https://myanimelist.net/anime/40044/Doraemon_Movie_40__Nobita_no_Shin_Kyouryuu)|
+|Dragon Ball GT|Winter 1996|7/10|[Click](https://myanimelist.net/anime/225/Dragon_Ball_GT)|
+|Gokushufudou|ONA 2021|7/10|[Click](https://myanimelist.net/anime/43692/Gokushufudou)|
+|Gokushufudou Part 2|ONA 2021|7/10|[Click](https://myanimelist.net/anime/48707/Gokushufudou_Part_2)|
 |Keroro Gunsou Movie 5: Tanjou! Kyuukyoku Keroro, Kiseki no Jikuu-jima, de Arimasu!!|Movie 2010|7/10|[Click](https://myanimelist.net/anime/8134/Keroro_Gunsou_Movie_5__Tanjou_Kyuukyoku_Keroro_Kiseki_no_Jikuu-jima_de_Arimasu)|
 |Magic Kaito|Special 2010|7/10|[Click](https://myanimelist.net/anime/8310/Magic_Kaito)|
 |Masamune-kun no Revenge|Winter 2017|7/10|[Click](https://myanimelist.net/anime/33487/Masamune-kun_no_Revenge)|
