@@ -22,6 +22,8 @@ date: 0
 |[SSSS.Gridman](./posts/ssss-gridman)|Fall 2018|8/10|[Click](https://myanimelist.net/anime/35847/SSSSGridman)|
 |[Tegami Bachi](./posts/letter-bee)|Fall 2009|8/10|[Click](https://myanimelist.net/anime/6444/Tegamibachi)|
 |[Dokyuu Hentai HxEros](./posts/super-hxeros)|Summer 2020|7/10|[Click](https://myanimelist.net/anime/40623/Dokyuu_Hentai_HxEros)|
+|[Digimon Xros War](./posts/xros-war)|Summer 2010|7/10|[Click](https://myanimelist.net/anime/8624/Digimon_Xros_Wars)|
+|[Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku](./posts/xros-war)|Spring 2011|7/10|[Click](https://myanimelist.net/anime/10444/Digimon_Xros_Wars__Aku_no_Death_General_to_Nanatsu_no_Oukoku)|
 |[Rockman.EXE Movie: Hikari to Yami no Program](./posts/rockman-exe-movie)|Movie 2005|7/10|[Click](https://myanimelist.net/anime/2111/RockmanEXE_Movie__Hikari_to_Yami_no_Program)|
 |[Bounen no Xamdou](./posts/bounen-no-xamdou)|ONA 2008|6/10|[Click](https://myanimelist.net/anime/4177/Bounen_no_Xamdou)|
 |[Zettai Muteki Raijin-Oh](./posts/raijin-oh)|Spring 1991|5/10|[Click](https://myanimelist.net/anime/1897/Zettai_Muteki_Raijin-Oh)|
