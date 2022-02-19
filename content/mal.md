@@ -57,6 +57,7 @@ date: 0
 |Fullmetal Alchemist: Brotherhood|Spring 2009|8/10|[Click](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)|
 |Kenja no Mago|Spring 2019|8/10|[Click](https://myanimelist.net/anime/36407/Kenja_no_Mago)|
 |Keroro Gunsou Movie 1|Movie 2006|8/10|[Click](https://myanimelist.net/anime/2407/Keroro_Gunsou_Movie_1)|
+|Kuzu no Honkai|Winter 2017|8/10|[Click](https://myanimelist.net/anime/32949/Kuzu_no_Honkai)|
 |Noragami|Winter 2014|8/10|[Click](https://myanimelist.net/anime/20507/Noragami)|
 |Servamp|Summer 2016|8/10|[Click](https://myanimelist.net/anime/31229/Servamp)|
 |Summer Wars|Movie 2009|8/10|[Click](https://myanimelist.net/anime/5681/Summer_Wars)|
