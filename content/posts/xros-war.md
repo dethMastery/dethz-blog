@@ -19,9 +19,19 @@ thumbnail: https://sv1.picz.in.th/images/2022/02/19/r1rDYy.png
 <br />
 
 ## ตัวละคร
+ในส่วนขของตัวละคร คงพูดได้ดีเลยก็ไม่ได้ แต่จะบอกว่าแย่เลยก็ไม่ได้ เพราะว่า ตัวละครทุกตัวในเรื่องนี้เด็กมาก ๆ ซึ่งหลาย ๆ อย่างก็ดูไม่ได้แย่มากขนาดนั้น และ แน่นอนครับ "__อามาโนะ เนเนะ__ น่ารักมาก" ขอบคุณครับ
+<br />
+
+<img src="https://sv1.picz.in.th/images/2022/02/20/rKXAEt.gif" alt="story" class="img-w-desp" width="70%" />
+<center>ก็น่ารักจริง ๆ นะครับ</center>
 <br />
 
 ## ป.ล.
+### ให้ตายยังไงผมก็ยังจะบอกว่า __"เนเนะน่ารักมากครับ"__
 <br />
 
-<img src="https://img.shields.io/badge/Score-8%2F10-coral?style=for-the-badge" alt="score">
+Digimon Xros War <br />
+<img src="https://img.shields.io/badge/Score-7%2F10-coral?style=for-the-badge" alt="score">
+
+Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku <br />
+<img src="https://img.shields.io/badge/Score-7%2F10-coral?style=for-the-badge" alt="score">
