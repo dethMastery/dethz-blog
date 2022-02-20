@@ -19,7 +19,9 @@ thumbnail: https://sv1.picz.in.th/images/2022/02/19/r1rDYy.png
 <br />
 
 ## ตัวละคร
+<br />
 
 ## ป.ล.
+<br />
 
 <img src="https://img.shields.io/badge/Score-8%2F10-coral?style=for-the-badge" alt="score">
