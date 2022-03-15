@@ -6,7 +6,12 @@
         <Nav />
         <br>
         <ul class="listing">
-            <li v-for="article of articles" :key="article.slug">
+            <div class="tagSelection" v-if="tag == undefined">
+                <center>
+                    Just wait me for tag selector
+                </center>
+            </div>
+            <li v-for="article of articles" :key="article.slug" v-else>
                 <div class="hover" :style="'background: url(' + article.thumbnail +');'" v-if="article.mainTag == tag">
                     <div class="black blacko">
                         <NuxtLink :to="{ name: 'posts-slug', params: { slug: article.slug } }">
@@ -15,7 +20,7 @@
                         <span class="desptext"><i>{{ article.description }}</i></span><br>
                     </div>
                 </div>
-                <div class="hover" :style="'background: url(' + article.thumbnail +');'" v-if="article.subTag == tag">
+                <div class="hover" :style="'background: url(' + article.thumbnail +');'" v-else-if="article.subTag == tag">
                     <div class="black blacko">
                         <NuxtLink :to="{ name: 'posts-slug', params: { slug: article.slug } }">
                             <h2 class="titletext">{{ article.title }}</h2>
@@ -35,6 +40,10 @@
 @import url(../style/based.css);
 @import url(../style/Nav.css);
 @import url(../style/post.css);
+
+body {
+    overflow-x: hidden;
+}
 </style>
 
 <script>
