@@ -3,7 +3,8 @@ title: "[Fall 2006] Ryuusei no Rockman (Shooting star Rockman)"
 hTitle: รีวิวสั้นๆ หลังดู Ryuusei no Rockman (Fall 2006)
 date: 1634234699962
 description: "รีวิวสั้นๆ หลังจากดู Ryuusei no Rockman.."
-tag: Anime Review, Rockman Series
+mainTag: "AniReview"
+subTag: "Rockman Series"
 author: Deth's
 thumbnail: https://sv1.picz.in.th/images/2021/12/14/6ntlNW.png
 ---

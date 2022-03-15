@@ -3,7 +3,8 @@ title: "[Fall 2007] Ryuusei no Rockman Tribe (Shooting Star Rockman Tribe)"
 hTitle: รีวิวสั้นๆ หลังดู Ryuusei no Rockman Tribe (Fall 2007)
 date: 1634304172364
 description: "รีวิวสั้นๆ หลังจากดู Ryuusei no Rockman Tribe.."
-tag: Anime Review, Rockman Series
+mainTag: "AniReview"
+subTag: "Rockman Series"
 author: Deth's
 thumbnail: https://sv1.picz.in.th/images/2021/12/14/6nwZTJ.png
 ---

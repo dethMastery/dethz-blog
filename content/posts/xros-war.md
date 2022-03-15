@@ -3,7 +3,8 @@ title: "[Summer 2010] Digimon Xros Wars"
 hTitle: รีวิวสั้นๆ หลังดู Digimon Xros Wars (Summer 2010)
 date: 1645284520188
 description: "รีวิวสั้นๆ หลังจากดู Digimon Xros Wars.."
-tag: Anime Review, Digimon Series
+mainTag: "AniReview"
+subTag: "Digimon Series"
 author: Deth's
 thumbnail: https://sv1.picz.in.th/images/2022/02/19/r1rDYy.png
 ---

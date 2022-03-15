@@ -3,7 +3,8 @@ title: "[Movie 2005] Rockman.EXE Movie: Hikari to Yami no Program"
 hTitle: "รีวิวสั้นๆ หลังดู Rockman.EXE Movie: Hikari to Yami no Program (Movie 2005)"
 date: 1633613284038
 description: "รีวิวสั้นๆ หลังจากดู Rockman.EXE Movie: Hikari to Yami no Program.."
-tag: Movie Review, Rockman Series
+mainTag: "AniReview"
+subTag: "Rockman Series"
 author: Deth's
 thumbnail: https://sv1.picz.in.th/images/2021/12/14/6n1rxz.png
 ---

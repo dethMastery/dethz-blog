@@ -3,7 +3,8 @@ title: "[Fall 2009] Tegami Bashi (Letter Bee)"
 hTitle: รีวิวสั้นๆ หลังดู Tegami Bashi (Fall 2009)
 date: 1642362968117
 description: "รีวิวสั้นๆ หลังจากดู Tegami Bashi.."
-tag: Anime Review
+mainTag: "AniReview"
+subTag: 
 author: Deth's
 thumbnail: https://sv1.picz.in.th/images/2022/01/17/nUudh1.png
 ---

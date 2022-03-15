@@ -3,7 +3,8 @@ title: "[Spring 2015] Yamada-kun to 7-nin no Majo (ยามาดะคุง�
 hTitle: รีวิวสั้นๆ หลังดู Yamada-kun to 7-nin no Majo (Spring 2015)
 date: 1636496224605
 description: "รีวิวสั้นๆ หลังจากดู Yamada-kun to 7-nin no Majo.."
-tag: Anime Review
+mainTag: "AniReview"
+subTag:
 author: Deth's
 thumbnail: https://sv1.picz.in.th/images/2021/12/14/66mmOa.png
 ---

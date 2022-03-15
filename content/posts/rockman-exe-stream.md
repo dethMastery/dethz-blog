@@ -3,8 +3,9 @@ title: "[Fall 2004] Rockman.EXE Stream"
 hTitle: รีวิวสั้นๆ หลังดู Rockman.EXE Stream (Fall 2004)
 date: 1633500089120
 description: "รีวิวสั้นๆ หลังจากดู Rockman.EXE Stream.."
-tag: Anime Review, Rockman Series
-author: Deth's
+mainTag: "AniReview"
+subTag: "Rockman Series"
+author: "Deth's"
 thumbnail: https://sv1.picz.in.th/images/2021/12/14/6n1868.png
 ---
 ถ้าให้พูดตรงๆ เลย ในส่วนของภาคนี้เป็นภาคที่จะเน้นหนักตรงส่วนของ Cross Fusion มากๆ ซึ่งมันทำเหมือนกับว่าไอ Synchro Chip มันเสกออกมาจากอากาศได้เลย ไหนจะในส่วนของ "ดาวหาง Duo" อีก แล้วก็เรื่องของ Dark Rockman แล้วก็ Forte อีก 

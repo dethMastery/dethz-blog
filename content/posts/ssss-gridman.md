@@ -3,7 +3,8 @@ title: "[Fall 2018] SSSS.Gridman"
 hTitle: รีวิวสั้นๆ หลังดู SSSS.Gridman (Fall 2018)
 date: 1634511212174
 description: "รีวิวสั้นๆ หลังจากดู SSSS.Gridman.."
-tag: Anime Review, SSSS Series
+mainTag: "AniReview"
+subTag: "SSSS Series"
 author: Deth's
 thumbnail: https://sv1.picz.in.th/images/2021/12/15/6rTb0v.png
 ---

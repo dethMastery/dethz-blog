@@ -3,7 +3,8 @@ title: "[Spring 2021] Ijiranaide, Nagatoro-san (ยัยตัวแสบแ�
 hTitle: รีวิวสั้นๆ หลังดู Ijiranaide, Nagatoro-san (Spring 2021)
 date: 1642158993408
 description: "รีวิวสั้นๆ หลังจากดู Ijiranaide, Nagatoro-san.."
-tag: Anime Review
+mainTag: "AniReview"
+subTag:
 author: Deth's
 thumbnail: https://sv1.picz.in.th/images/2022/01/14/nR7qhE.png
 ---

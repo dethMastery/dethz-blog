@@ -3,7 +3,8 @@ title: "[Fall 2003] Rockman.EXE Axess"
 hTitle: รีวิวสั้นๆ หลังดู Rockman.EXE Axess (Spring 2003)
 date: 1633274788920
 description: "รีวิวสั้นๆ หลังจากดู Rockman.EXE Axess.."
-tag: Anime Review, Rockman Series
+mainTag: "AniReview"
+subTag: "Rockman Series"
 author: Deth's
 thumbnail: https://sv1.picz.in.th/images/2021/12/14/6ntinv.png
 ---

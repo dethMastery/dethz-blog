@@ -3,7 +3,8 @@ title: "[Spring 1991] Zettai Muteki Raijin-Oh (หุ่นยนต์เทพ
 hTitle: รีวิวสั้นๆ หลังดู Zettai Muteki Raijin-Oh (Spring 1991)
 date: 1632900858621
 description: "รีวิวสั้นๆ หลังดู Zettai Muteki Raijin-Oh.."
-tag: Anime Review, Eldran Series
+mainTag: "AniReview"
+subTag: "Eldran Series"
 author: Deth's
 thumbnail: https://sv1.picz.in.th/images/2021/09/29/CvC0Sb.jpg
 ---

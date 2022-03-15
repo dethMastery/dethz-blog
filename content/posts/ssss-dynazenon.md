@@ -3,7 +3,8 @@ title: "[Spring 2021] SSSS.Dynazenon"
 hTitle: รีวิวสั้นๆ หลังดู SSSS.Dynazenon (Spring 2021)
 date: 1634754910885
 description: "รีวิวสั้นๆ หลังจากดู SSSS.Dynazenon.."
-tag: Anime Review, SSSS Series
+mainTag: "AniReview"
+subTag: "SSSS Series"
 author: Deth's
 thumbnail: https://sv1.picz.in.th/images/2021/12/14/66mcY8.png
 ---

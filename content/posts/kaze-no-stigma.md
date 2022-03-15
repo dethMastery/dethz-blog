@@ -3,7 +3,8 @@ title: "[Spring 2007] Kaze no Stigma (มลทินแห่งลม)"
 hTitle: รีวิวสั้นๆ หลังดู Kaze no Stigma (Spring 2007)
 date: 1632877200000
 description: "รีวิวสั้นๆ หลังดู Kaze no Stigma.."
-tag: Anime Review
+mainTag: "AniReview"
+subTag: 
 author: Deth's
 thumbnail: https://sv1.picz.in.th/images/2021/09/29/Cv186g.jpg
 ---
