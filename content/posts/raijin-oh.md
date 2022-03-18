@@ -6,7 +6,7 @@ description: "รีวิวสั้นๆ หลังดู Zettai Muteki Ra
 mainTag: "AniReview"
 subTag: "Eldran Series"
 author: Deth's
-thumbnail: https://sv1.picz.in.th/images/2021/09/29/CvC0Sb.jpg
+thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/raijin-oh/thumbnail.jpg
 ---
 ก็ด้วยจากว่าเรื่องนี้เป็นเรื่องที่ค่อนข้างเก่ามากๆ และผมก็มีโอกาศได้ดูเมื่อตอนเด็กๆ เพราะทรูเอากลับมาย้อนฉายให้ แต่ว่านั่นก็ไม่ได้ให้ผมนั้นเข้าใจว่าไอเรื่องนี้มันเดินยังไงอยู่ดี และนั่นก็เลยทำให้ผมย้อนกลับมาดูเร่ืองนี้อย่างจริงๆ จังๆ <br />
 
@@ -14,7 +14,7 @@ thumbnail: https://sv1.picz.in.th/images/2021/09/29/CvC0Sb.jpg
 
 ว่าด้วยเรื่อง Design ของหุ่นยนต์ทั้ง **Ken-Oh**, **Hou-Oh**, **Juu-Oh**, **Raijin-Oh**, **Bakuryū-Oh** และ **God Raijin-Oh** ถือว่าดีไซน์ออกมาได้ดีเลยสำหรับในช่วงเวลานั้น <br />
 
-<img src="https://sv1.picz.in.th/images/2021/09/29/CvVXc9.jpg" alt="Bakuryuo">
+<img src="https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/raijin-oh/01.jpg" alt="Bakuryuo">
 
 มาต่อด้วยเรื่องของ Character Design ก็คงบอกได้ว่าในส่วนของเด็กๆ โดยรวมๆ ก็ถือว่าโอเค แต่กับตัวละครผู้ใหญ่กลับทำออกมาได้ไม่ดีเท่าที่ควร รวมกับลิขสิทธ์ในไทยที่มีเจ้าของคือทรู และมาพร้อมกับเสียงพากย์ที่สุดแสนจะฟังยากจึงทำให้รู้สึกไม่โอเคมากๆ <br />
 
@@ -22,7 +22,7 @@ thumbnail: https://sv1.picz.in.th/images/2021/09/29/CvC0Sb.jpg
 
 
 ### ป.ล. เรื่องนี้ความน่ารักคงบอกได้เลยว่าให้น้องมาเรียเต็มๆ เลยค้าบบบบ
-<img src="https://sv1.picz.in.th/images/2021/09/29/CvCcDk.jpg" alt="Maria">
+<img src="https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/raijin-oh/02.jpg" alt="Maria">
 <br /><br />
 
 <img src="https://img.shields.io/badge/Score-5%2F10-coral?style=for-the-badge" alt="score">
