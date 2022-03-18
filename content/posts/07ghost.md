@@ -20,7 +20,7 @@ thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main
 </details>
 <br />
 
-<img src="https://sv1.picz.in.th/images/2022/01/11/nKpeWt.png" alt="story" class="img-w-desp" width="70%" />
+<img src="https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/07ghost/01.png" alt="story" class="img-w-desp" width="70%" />
 <center>เอาล่ะ ต่อยหมัดก่อนลากัน</center>
 <br />
 
@@ -28,7 +28,7 @@ thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main
 ในส่วนของตัวละคร ที่อยากจะบ่นมากๆ เลยคือ ส่วนของน้องเทย์โตะ ที่ช่วงแรก ๆ คือ วัน ๆ ไม่ทำอะไรเอาแต่จะหนีออกจากโบสถ์อย่างเดียวเลย แต่ว่าอย่างน้อย น้องก็ค่อยๆ เติบโตขึ้นไปเรื่อย ๆ และ เติบโตขึ้นไปในทางที่ดีขึ้น ซึ่งมันเลยทำให้ในเรื่องนี้น่าติดตามมากขึ้นเรื่อย ๆ ยิ่งในช่วงท้าย ๆ ที่น้องได้เจอกับ ฮาคุเรน ก็ยิ่งทำให้เนื้อเรื่องมันลงตัวขึ้นเยอะมากๆ เลย
 <br /><br />
 
-<img src="https://sv1.picz.in.th/images/2022/01/11/nKv4Wn.png" alt="story" class="img-w-desp" width="70%" />
+<img src="https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/07ghost/02.png" alt="story" class="img-w-desp" width="70%" />
 <center>หน้าน้องดูรำคาญนะคะ</center>
 <br />
 
@@ -36,7 +36,7 @@ thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main
 ถึงจะบ่นว่าน้องน่ารำคาญ แต่น้องก็น่ารักมากเลยแหละ ยิ่งโดยเฉพาะตอนที่เป็นมิคาเอลสิงอยู่
 <br /><br />
 
-<img src="https://sv1.picz.in.th/images/2022/01/12/nKvZdf.png" alt="story" class="img-w-desp" width="80%" />
+<img src="https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/07ghost/03.jpg" alt="story" class="img-w-desp" width="80%" />
 <center>เนี่ยยยย น่าร้ากกกกก</center>
 <br />
 
