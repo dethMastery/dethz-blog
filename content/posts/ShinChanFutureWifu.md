@@ -23,13 +23,14 @@ thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main
 <br />
 
 ## ตัวละคร
+ตัวละครหลายๆ ตัวในเรื่องนี้ค่อนข้างที่จะมาแบบไม่รู้ว่ามายังไง รวมกับเรื่องของความฝันในอนาคต ที่ไม่ค่อยได้อย่างที่หวังแต่ว่า ส่วนของโบจังกลับได้อย่างที่ฝันไว้นั่นแหละครับ
+<br />
+
+<img src="https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/MovieRev/ShinChanFutureWife/03.jpg" alt="story" class="img-w-desp" width="70%" />
+<center>ไปเลย หน่วยพิทักษ์คาซึคาเบะ!</center>
+<br />
 
 ## ป.ล.
-
-<details>
-  <br />
-  <summary> <u>Spoiler</u> </summary> 
-  
-</details>
+<br />
 
 <img src="https://img.shields.io/badge/Score-9%2F10-coral?style=for-the-badge" alt="score">
