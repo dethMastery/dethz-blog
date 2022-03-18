@@ -6,7 +6,7 @@ description: "รีวิวสั้นๆ หลังจากดู ชิ�
 mainTag: "MovieReview"
 subTag: "Shin-Chan Series"
 author: Deth's
-thumbnail: 
+thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/MovieRev/ShinChanFutureWife/thumbnail.jpg
 ---
 
 ## เนื้อเรื่อง
