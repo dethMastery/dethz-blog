@@ -6,7 +6,7 @@ description: "รีวิวสั้นๆ หลังจากดู Ijirana
 mainTag: "AniReview"
 subTag:
 author: Deth's
-thumbnail: https://sv1.picz.in.th/images/2022/01/14/nR7qhE.png
+thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/nagatoro-san/thumbnail.png
 ---
 ว่าด้วยเรื่องนี้เป็นอีกเรื่องที่ผมได้เห็นมังงะมาผ่านๆ และ เห็นคนรอบตัวนั่งดู หรือว่า แชร์โพสต์ต่าง ๆ เกี่ยวกับเรื่องนี้กัน ซึ่งนั่นเลยทำให้ผมมานั่งดูจนจบนั่นแหละครับ ถ้างั้น เมื่อมาถึงจุด ๆ นี้แล้วก๋็ เริ่มกันเลยดีกว่าครับ UwU
 
