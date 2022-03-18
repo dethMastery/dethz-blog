@@ -6,7 +6,7 @@ description: "รีวิวสั้นๆ หลังจากดู Rockman
 mainTag: "AniReview"
 subTag: "Rockman Series"
 author: Deth's
-thumbnail: https://box.lolis.love/0/4esy2.png
+thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/rockman-exe-beast/thumbnail.png
 ---
 มีความพยายามเอา Axess กับ Stream มารวมกันแต่ยังไม่ได้ดีเท่าที่หวังไว้ แต่ก็ไม่ได้แย่เลยซะทีเดียว และเหมือนกับตอนช่วงของ Axess ที่ทำเป็นลืมส่วนของ PET ตัวเก่าอีกแล้ววว และนั่นเป็นหนึ่งในจุดที่ผมค่อนข้างไม่ชอบเลยแหละ และเพลงของเพลงเปิดภาคนี้ถือว่าดีเลยแหละ
 <br />
@@ -26,7 +26,7 @@ thumbnail: https://box.lolis.love/0/4esy2.png
 <img src="https://box.lolis.love/0/q2h42.png" alt="beast out falzar" width="300px" />
 <center>Beast out Falzar</center>
 <br /><br />
-<img src="https://box.lolis.love/0/8secd.jpg" alt="beast form cf" width="300px" />
+<img src="https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/rockman-exe-beast/04.jpg" alt="beast form cf" width="300px" />
 <center>Beast Form CrossFusion</center>
 <br />
 
