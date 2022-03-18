@@ -6,7 +6,7 @@ description: "รีวิวสั้นๆ หลังจากดู Tegami 
 mainTag: "AniReview"
 subTag: 
 author: Deth's
-thumbnail: https://sv1.picz.in.th/images/2022/01/17/nUudh1.png
+thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/letter-bee/thumbnail.png
 ---
 ถ้าให้พูดถึงเรื่องนี้รวม ๆ เลยสำหรับผมเองก็ถือได้ว่าดีมากเลยแหละ แต่ว่าก็ยังมีข้อเสียอยู่ดีนั่นแหละครับ ฉะนั้นลองค่อย ๆ ลงไปอ่านดูกันดีกว่า
 
