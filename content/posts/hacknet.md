@@ -6,7 +6,7 @@ description: "รีวิวสั้นๆ หลังจากเล่น H
 mainTag: "GameReview"
 subTag: 
 author: Deth's
-thumbnail: https://sv1.picz.in.th/images/2021/11/30/6iKTxJ.jpg
+thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/GameRev/HackNet/thumbnail.jpg
 ---
 
 ## เนื้อเรื่อง
