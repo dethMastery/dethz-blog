@@ -6,7 +6,7 @@ description: "รีวิวสั้นๆ หลังดู Kaze no Stigma..
 mainTag: "AniReview"
 subTag: 
 author: Deth's
-thumbnail: https://sv1.picz.in.th/images/2021/09/29/Cv186g.jpg
+thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/kaze-no-stigma/thumbnail.jpg
 ---
 ผมต้องขอพูดไว้ก่อนเลยว่า เรื่องนี้เป็นเรื่องที่ผมตามหามานานมากๆ และ มันก็ไม่ทำให้ผมรู้สึกเสียใจที่ตามหามันจริงๆ <br /> <br />
 
@@ -20,7 +20,7 @@ thumbnail: https://sv1.picz.in.th/images/2021/09/29/Cv186g.jpg
 
 ### ป.ล. หัวแดงน่ารักอีกแล้ว แอแงงงงงงง (แต่ก็ดูบื้อๆ ไปหน่อย ฟฟฟฟฟฟ)
 
-<img src="https://sv1.picz.in.th/images/2021/09/29/Cv1VWW.jpg" alt="ayano" width="80%">
+<img src="https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/kaze-no-stigma/01.jpg" alt="ayano" width="80%">
 <br /><br />
 
 <img src="https://img.shields.io/badge/Score-8%2F10-coral?style=for-the-badge" alt="score">
