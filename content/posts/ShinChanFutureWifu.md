@@ -30,7 +30,4 @@ thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main
 <center>ไปเลย หน่วยพิทักษ์คาซึคาเบะ!</center>
 <br />
 
-## ป.ล.
-<br />
-
 <img src="https://img.shields.io/badge/Score-9%2F10-coral?style=for-the-badge" alt="score">
