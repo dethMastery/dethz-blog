@@ -10,6 +10,7 @@ date: 0
 |---|---|---|---|
 |[Ryuusei no Rockman](./posts/ryuusei-no-rockman)|Fall 2006|10/10|[Click](https://myanimelist.net/anime/1835/Ryuusei_no_Rockman)|
 |[Yamada-kun to 7-nin no Majo](./posts/yamada-kun-to-7-nin-no-majo)|Spring 2015|10/10|[Click](https://myanimelist.net/anime/28677/Yamada-kun_to_7-nin_no_Majo_TV)|
+|[Crayon Shin-chan Movie 18: Chou Jikuu! Arashi wo Yobu Ora no Hanayome](./posts/ShinChanFutureWife)|Movie 2010|9/10|[Click](https://myanimelist.net/anime/8369/Crayon_Shin-chan_Movie_18__Chou_Jikuu_Arashi_wo_Yobu_Ora_no_Hanayome)|
 |[Kaze no Stigma](./posts/kaze-no-stigma)|Spring 2007|9/10|[Click](https://myanimelist.net/anime/1691/Kaze_no_Stigma)|
 |[Rockman.EXE](./posts/rockman-exe)|Spring 2002|9/10|[Click](https://myanimelist.net/anime/1710/RockmanEXE)|
 |[Rockman.EXE Beast](./posts/rockman-exe-beast)|Fall 2005|9/10|[Click](https://myanimelist.net/anime/2110/RockmanEXE_Beast)|
