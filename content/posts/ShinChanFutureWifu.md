@@ -19,7 +19,7 @@ thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main
 <br />
 
 <img src="https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/MovieRev/ShinChanFutureWife/02.webp" alt="story" class="img-w-desp" width="70%" />
-<center>ก็ออกจะน่ารักขนาดนี้</center>
+<center>ส่วนนี่คือโบจังยังไงล่ะ</center>
 <br />
 
 ## ตัวละคร
