@@ -19,14 +19,14 @@ thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main
 </details>
 <br />
 
-<img src="https://sv1.picz.in.th/images/2022/01/14/nRkR1Z.png" alt="story" class="img-w-desp" width="70%" />
+<img src="https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/nagatoro-san/01.png" alt="story" class="img-w-desp" width="70%" />
 <center>เล่นอะไรทะเล้น ๆ ทั้งเรื่อง</center>
 <br />
 
 ## ตัวละคร
 พอมาเรื่องของตัวละคร สำหรับส่วนตัวผมนั้น ก็ถือว่าทำออกมาได้ดีในระดับหนึ่งเลย ซึ่งที่ผมบอกไปว่าดีนั้นก็คือส่วนของ เอกลักษณ์ของตัวละครแต่ละตัวนั้น แทบจะเรียกได้ว่าไม่เหมือนกันเลย อย่างเช่น ตัวของรุ่นพี่จะออกมาเป็น Introvert หรือว่า ตัวของนากาโตโระที่ดูออกว่าค่อนข้างทะเล้นหน่อย ๆ ซึ่งผมก็ไม่อาจจะที่จะพูดมากกว่านี้ได้ ฉะนั้น ลองไปดูเองน่าจะดีกว่านะครับ ^^ 
 
-<img src="https://sv1.picz.in.th/images/2022/01/14/nRktEq.png" alt="story" class="img-w-desp" width="70%" />
+<img src="https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/nagatoro-san/02.png" alt="story" class="img-w-desp" width="70%" />
 <center>แต่ถ้าให้พูดตรง ๆ ก็คงบอกว่า น้องน่ารักนั่นแหละครับ UwU</center>
 <br />
 
@@ -34,15 +34,15 @@ thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main
 ให้พูดให้ตายยังไงน้องก็น่ารักครับ
 <br />
 
-<img src="https://sv1.picz.in.th/images/2022/01/14/nR9ltV.png" alt="story" class="img-w-desp" width="80%" />
+<img src="https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/nagatoro-san/03.png" alt="story" class="img-w-desp" width="80%" />
 <center>น่ารักขนาดไหน ถามใจเธอดู</center>
 <br />
 
-<img src="https://c.tenor.com/XyT1Z-nOLqsAAAAd/nagatoro-ijiranaide-nagatoro-san.gif" alt="story" class="img-w-desp" width="80%" />
+<img src="https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/nagatoro-san/04.gif" alt="story" class="img-w-desp" width="80%" />
 <center>เนี่ยยยยยยยยยยยยย</center>
 <br />
 
-<img src="https://sv1.picz.in.th/images/2022/01/14/nR9Pfn.png" alt="story" class="img-w-desp" width="80%" />
+<img src="https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/nagatoro-san/05.png" alt="story" class="img-w-desp" width="80%" />
 <center>หึงขนาดนี้ ไม่คบเลยล่ะครับท่าน</center>
 <br />
 
