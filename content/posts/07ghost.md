@@ -6,7 +6,7 @@ description: "รีวิวสั้นๆ หลังจากดู 07-Ghos
 mainTag: "AniReview"
 subTag: 
 author: Deth's
-thumbnail: https://sv1.picz.in.th/images/2022/01/11/nKaeGy.png
+thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/07ghost/thumbnail.png
 ---
 ### โดยส่วนตัวที่ผมย้อนกลับมาดูเรื่องนี้ เพราะว่าความคิดถึงหลายๆ อย่าง ซึ่งมันก็ไม่ได้ทำให้ผมผิดหวังขนาดนั้น แต่ว่าด้วยเนื้่อเรื่องหลายๆ อย่าง รวมกับตัวละครบางตัวที่ดูน่ารำคาญเกินไป แต่ในขณะเดียวกัน บางอย่างกับลงตัวมากๆ
 <br />
