@@ -1,7 +1,7 @@
 <template>
     <div>
         <h1>
-            Posts
+            {{tag}} | Posts
         </h1>
         <Nav />
         <br>
