@@ -8,6 +8,9 @@
                 <a href="/posts">Posts</a>
             </li>
             <li>
+                <a href="/posts/tag">Tag Listing</a>
+            </li>
+            <li>
                 <a href="/MAL">MAL Scoreboard</a>
             </li>
             <li>
