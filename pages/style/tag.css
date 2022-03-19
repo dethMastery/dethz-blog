@@ -14,3 +14,9 @@
     background-color: whitesmoke;
     opacity: .8;
 }
+
+@media only screen and (max-width: 940px) {
+    .tag .badge {
+        line-height: 50px;
+    }
+}

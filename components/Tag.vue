@@ -21,23 +21,23 @@
         
         <a href="/posts/tag/?tag=Rockman Series" class="badge" style="background-color: #31a2f2 !important;">
             <b>
-                Rockman Series
+                RockmanSeries
             </b>
         </a>
         
         <a href="/posts/tag/?tag=SSSS Series" class="badge">
             <b>
-                SSSS Series
+                SSSSSeries
             </b>
         </a>
         
         <a href="/posts/tag/?tag=Digimon Series" class="badge">
-            <b>Digimon Series</b>
+            <b>DigimonSeries</b>
         </a>
         
         <a href="/posts/tag/?tag=Shin-Chan Series" class="badge" style="background-color: #D2042D !important; color: whitesmoke !important;">
             <b>
-                Shin-Chan Series
+                ShinChanSeries
             </b>
         </a>
 
