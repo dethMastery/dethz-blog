@@ -19,7 +19,7 @@
             </b>
         </a>
         
-        <a href="/posts/tag/?tag=Rockman Series" class="badge">
+        <a href="/posts/tag/?tag=Rockman Series" class="badge" style="background-color: #31a2f2 !important">
             <b>
                 Rockman Series
             </b>
