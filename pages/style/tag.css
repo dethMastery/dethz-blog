@@ -1,6 +1,7 @@
 .tag .badge {
     padding: 5px;
     border-radius: 5px;
+    margin: 5px;
     background-color: whitesmoke;
     text-decoration: none;
     color: #1e1f1f;
