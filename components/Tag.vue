@@ -35,7 +35,7 @@
             <b>Digimon Series</b>
         </a>
         
-        <a href="/posts/tag/?tag=Shin-Chan Series" class="badge">
+        <a href="/posts/tag/?tag=Shin-Chan Series" class="badge" style="background-color: #D2042D !important">
             <b>
                 Shin-Chan Series
             </b>
