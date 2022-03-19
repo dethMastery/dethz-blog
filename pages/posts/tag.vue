@@ -8,7 +8,9 @@
         <ul class="listing">
             <div class="tagSelection" v-if="tag == undefined">
                 <center>
-                    Just wait me for tag selector
+                    Just Select your tag :D
+                    <br><br>
+                    <Tag />
                 </center>
             </div>
             <li v-for="article of articles" :key="article.slug" v-else>
@@ -40,6 +42,7 @@
 @import url(../style/based.css);
 @import url(../style/Nav.css);
 @import url(../style/post.css);
+@import url(../style/tag.css);
 
 body {
     overflow-x: hidden;

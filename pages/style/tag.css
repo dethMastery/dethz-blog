@@ -1,0 +1,15 @@
+.tag .badge {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    text-decoration: none;
+    color: #1e1f1f;
+
+    transition: .3s;
+}
+
+.tag .badge:hover {
+    color: #1e1f1fc2;
+    background-color: whitesmoke;
+    opacity: .8;
+}
