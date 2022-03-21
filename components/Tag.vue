@@ -37,7 +37,7 @@
             </b>
         </a>
         
-        <a href="/posts/tag/?tag=Digimon Series" class="badge">
+        <a href="/posts/tag/?tag=Digimon Series" class="badge" style="background-color: #FAA82C !important;">
             <b>DigimonSeries</b>
         </a>
         
