@@ -27,6 +27,10 @@ thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main
 ในส่วนของตัวละครในความรู้สึกของผมเอง ผมรู้สึกว่าบางอย่างมันยังแอบไม่ค่อยโอเคเท่าไหร่ เพราะว่าการเล่าเรื่องต่างๆ ของในช่วงของ Season นี้ เนื้อเรื่องแทบจะไม่บอกอะไรเกี่ยวกับฝั่งของซึคาสะมาเลย แล้วปล่อยให้งมๆ หาเอาเอง ทั้งๆ ที่เรื่องไม่ได้บอกอะไร รวมถึงส่วนของพระเอกที่ออกจะหงิม ๆ ไปหน่อย แต่ว่าพอดูรวม ๆ หลาย ๆ อย่างในเรื่องนี้ก็ทำออกมาได้ดีพอสมควรเลยหล่ะ
 <br />
 
+<img src="https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/tonikawa-ss1/03.jpg" alt="story" class="img-w-desp" width="70%" />
+<center>ถึงแม้ว่าผมจะบ่นไปเยอะก็ตาม แต่ยังไงคุ่นี้ก็น่ารักอยู่ดีนั่นแหละครับ UwU</center>
+<br />
+
 ### Tonikaku Kawaii <br/><img src="https://img.shields.io/badge/Score-9%2F10-coral?style=for-the-badge" alt="score">
 
 <br />
