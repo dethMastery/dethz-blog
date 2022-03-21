@@ -35,6 +35,10 @@ thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main
 โดยส่วนตัวของผมเอง ถ้ามีคนมาถามว่ามีเรื่องอะไรแนะนำไหม เรื่องนี้คงจะเป็นเรื่องแรก ๆ ที่ผมจะแนะนำให้เขาไปดูเลยก็ได้ เพราะว่าด้วยงานภาพ และ ด้วยองค์ประกอบหลาย ๆ อย่างในเรื่องนี้ที่ทำออกมาได้ดีเกินกว่าที่ผมคาดเอาไว้เยอะมาก ๆ ถ้าไม่รวมในส่วนของเพลงเปิดที่ Logo เริ่มเขย่าเหมือนตัดใน KineMaster แล้วเอามาแปะในนั้น
 <br />
 
+<img src="https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/tonikawa-ss1/04.jpg" alt="story" class="img-w-desp" width="70%" />
+<center>อ่ะ กลับด้านมั่ง</center>
+<br />
+
 ### Tonikaku Kawaii <br/><img src="https://img.shields.io/badge/Score-9%2F10-coral?style=for-the-badge" alt="score">
 
 <br />
