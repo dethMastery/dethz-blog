@@ -1,6 +1,6 @@
 ---
-title: 
-hTitle: 
+title: bug
+hTitle: bug
 date: 1647875702911
 description:
 mainTag: "bug"
