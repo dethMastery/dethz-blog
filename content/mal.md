@@ -46,6 +46,7 @@ date: 0
 |Kobayashi-san Chi no Maid Dragon|Winter 2017|9/10|[Click](https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon)|
 |Kobayashi-san Chi no Maid Dragon S|Spring 2019|9/10|[Click](https://myanimelist.net/anime/39247/Kobayashi-san_Chi_no_Maid_Dragon_S)|
 |Komi-san wa, Comyushou desu.|Fall 2021|9/10|[Click](https://myanimelist.net/anime/48926/Komi-san_wa_Comyushou_desu)|
+|Maoujou de Oyasumi|Fall 2020|9/10|[Click](https://myanimelist.net/anime/40397/Maoujou_de_Oyasumi)|
 |Shijou Saikyou no Deshi Kenichi|Fall 2006|9/10|[Click](https://myanimelist.net/anime/1559/Shijou_Saikyou_no_Deshi_Kenichi)|
 |Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru|Fall 2019|9/10|[Click](https://myanimelist.net/anime/38659/Shinchou_Yuusha__Kono_Yuusha_ga_Ore_Tueee_Kuse_ni_Shinchou_Sugiru)|
 |Stand By Me Doraemon|Movie 2014|9/10|[Click](https://myanimelist.net/anime/21469/Stand_By_Me_Doraemon)|
