@@ -9,6 +9,7 @@ date: 0
 |Name|Season|Score|MAL|
 |---|---|---|---|
 |[Ryuusei no Rockman](./posts/ryuusei-no-rockman)|Fall 2006|10/10|[Click](https://myanimelist.net/anime/1835/)|
+|[Tonikaku Kawaii: SNS](./posts/tonikawa-ss1)|OVA 2020|10/10|[Click](https://myanimelist.net/anime/44931/)|
 |[Yamada-kun to 7-nin no Majo](./posts/yamada-kun-to-7-nin-no-majo)|Spring 2015|10/10|[Click](https://myanimelist.net/anime/28677/)|
 |[Crayon Shin-chan Movie 18: Chou Jikuu! Arashi wo Yobu Ora no Hanayome](./posts/ShinChanFutureWife)|Movie 2010|9/10|[Click](https://myanimelist.net/anime/8369/)|
 |[Kaze no Stigma](./posts/kaze-no-stigma)|Spring 2007|9/10|[Click](https://myanimelist.net/anime/1691/)|
@@ -16,6 +17,7 @@ date: 0
 |[Rockman.EXE Beast](./posts/rockman-exe-beast)|Fall 2005|9/10|[Click](https://myanimelist.net/anime/2110/)|
 |[Ryuusei no Rockman Tribe](./posts/ryuusei-no-rockman-tribe)|Fall 2007|9/10|[Click](https://myanimelist.net/anime/3493/)|
 |[SSSS.Dynazenon](./posts/ssss-dynazenon)|Spring 2021|9/10|[Click](https://myanimelist.net/anime/40870/)|
+|[Tonikaku Kawaii](./posts/tonikawa-ss1)|Fall 2020|9/10|[Click](https://myanimelist.net/anime/41389/)|
 |[07-Ghost](./posts/07ghost)|Spring 2009|8/10|[Click](https://myanimelist.net/anime/5525/)|
 |[Ijiranaide, Nagatoro-san](./posts/nagatoro-san)|Spring 2021|8/10|[Click](https://myanimelist.net/anime/42361/)|
 |[Rockman.EXE Axess](./posts/rockman-exe-axess)|Fall 2003|8/10|[Click](https://myanimelist.net/anime/2108)|
