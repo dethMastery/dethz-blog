@@ -10,15 +10,16 @@ thumbnail:
 ---
 
 ## เนื้อเรื่อง
+<br />
 
 ## ตัวละคร
+<br />
 
 ## ป.ล.
+<br />
 
-<details>
-  <br />
-  <summary> <u>Spoiler</u> </summary> 
-  
-</details>
+### Tonikaku Kawaii <br/><img src="https://img.shields.io/badge/Score-9%2F10-coral?style=for-the-badge" alt="score">
 
-<img src="https://img.shields.io/badge/Score-<score>%2F10-coral?style=for-the-badge" alt="score">
+<br />
+
+### Tonikaku Kawaii: SNS<br/><img src="https://img.shields.io/badge/Score-10%2F10-coral?style=for-the-badge" alt="score">
