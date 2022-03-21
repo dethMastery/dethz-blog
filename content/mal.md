@@ -62,6 +62,7 @@ date: 0
 |Keroro Gunsou Movie 1|Movie 2006|8/10|[Click](https://myanimelist.net/anime/2407/Keroro_Gunsou_Movie_1)|
 |Kuzu no Honkai|Winter 2017|8/10|[Click](https://myanimelist.net/anime/32949/Kuzu_no_Honkai)|
 |Noragami|Winter 2014|8/10|[Click](https://myanimelist.net/anime/20507/Noragami)|
+|Pokemon Movie 05: Mizu no Miyako no Mamorigami Latias to Latios|Movie 2002|8/10|[Click](https://myanimelist.net/anime/1120/Pokemon_Movie_05__Mizu_no_Miyako_no_Mamorigami_Latias_to_Latios)|
 |Servamp|Summer 2016|8/10|[Click](https://myanimelist.net/anime/31229/Servamp)|
 |Summer Wars|Movie 2009|8/10|[Click](https://myanimelist.net/anime/5681/Summer_Wars)|
 |Tensei shitara Slime Datta Ken 2nd Season|Winter 2021|8/10|[Click](https://myanimelist.net/anime/39551/Tensei_shitara_Slime_Datta_Ken_2nd_Season)|
