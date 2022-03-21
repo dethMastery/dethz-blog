@@ -1,8 +1,8 @@
 ---
-title: "[Fall 2020] Tonikaku Kawaii (TONIKAWA: Over the Moon For You)"
-hTitle: รีวิวสั้นๆ หลังดู Tonikaku Kawaii (Fall 2020)
+title: "[Fall 2020] Tonikaku Kawaii (TONIKAWA: Over the Moon For You) + OVA"
+hTitle: รีวิวสั้นๆ หลังดู Tonikaku Kawaii (Fall 2020) + OVA
 date: 1647892253156
-description: "รีวิวสั้นๆ หลังจากดู TONIKAWA: Over the Moon For You.."
+description: "รีวิวสั้นๆ หลังจากดู TONIKAWA: Over the Moon For You พร้อมกับ OVA.."
 mainTag: "AniReview"
 subTag: ""
 author: Deth's
