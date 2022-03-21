@@ -7,7 +7,8 @@
         <br>
         <ul class="listing">
             <li v-for="article of articles" :key="article.slug">
-                <div class="hover" :style="'background: url(' + article.thumbnail +');'">
+                <div style="display: none;" v-if="article.title == undefined"></div>
+                <div class="hover" :style="'background: url(' + article.thumbnail +');'" v-else>
                     <div class="black blacko">
                         <NuxtLink :to="{ name: 'posts-slug', params: { slug: article.slug } }">
                             <h2 class="titletext">{{ article.title }}</h2>
