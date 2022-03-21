@@ -26,9 +26,6 @@ thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main
 ## ตัวละคร
 <br />
 
-## ป.ล.
-<br />
-
 ### Tonikaku Kawaii <br/><img src="https://img.shields.io/badge/Score-9%2F10-coral?style=for-the-badge" alt="score">
 
 <br />
