@@ -6,7 +6,7 @@ description: "รีวิวสั้นๆ หลังจากดู TONIKAW
 mainTag: "AniReview"
 subTag: ""
 author: Deth's
-thumbnail: 
+thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/tonikawa-ss1/thumbnail.jpg
 ---
 ### ถ้าให้ผมได้พูดถึงเรื่องนี้จริงๆ คงบอกได้ตรงๆ เลยว่า **"ใช่ครับ ผมโดนปกเมะตกมา"** แล้วถ้ามีคนถามว่าเสียใจไหมที่โดนตกมา ผมก็คงพูดได้เต็มปากเลยว่า **"ครับ ไม่เสียใจเลยครับ แต่จะเสียเก้าอี้ไปแล้วตัวนึง"** ส่วนเรื่องต่างๆ ผมก็คงจะอธิบายไว้ในส่วนต่อๆ ไปแล้วกันนะครับ ***UwU***
 <br />
