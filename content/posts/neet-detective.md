@@ -6,7 +6,7 @@ description: "รีวิวสั้นๆ หลังจากดู Kamisam
 mainTag: "AniReview"
 subTag:
 author: Deth's
-thumbnail: 
+thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/neet-detective/thumbnail.webp
 ---
 ### นี่ก็เป็นอีกหนึงในเรื่องที่ผมติดเอาไว้ใน `Plan to watch` มานานมากๆ แล้ว เพราะว่าด้วยความที่ก่อนหน้านี้แทบจะไม่มีเวลามานั่งดูเลย + ปัญหาหลาย ๆ อย่าง เลยทำให้เพิ่งจะได้มีเวลามานั่งดูจริง ๆ ก็ประมาณช่วงนี้นี่แหละครับ `แหะ ๆ` ถ้าอยากรู้ว่าผมคิดยังไงกับเรื่องนี้ก็สามารถอ่านที่ Section ต่อไปได้เลยครับ `UwU`
 <br />
