@@ -12,6 +12,18 @@ thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main
 <br />
 
 ## เนื้อเรื่อง
+ถ้าให้พูดจริงๆ เลย คือเรืองนี้ผมดรอปไปรอบนึงตอนดูตอนแรกจบไปเพราะเจอตอนแรกกินไปเกือบชม. แต่ว่าเนื้อเรื่องกลับทำมาดึงดูดได้หนักพอสมควรเลย 
+<br />
+
+<details>
+  <br />
+  <summary> <u>Spoiler</u> </summary> 
+    โดยเฉพาะในส่วนของตอนสุดท้ายที่เล่นเรื่องเกี่ยวกับพวกขายยาเสพติดที่ชื่อว่า Angel Fix ที่ในเรื่องนั้นแทบจะหาข้อมูลอะไรไม่ได้เลย แต่ว่าสุดท้ายแล้วก็ยังพลิกกลับมาแก้ได้อยู่ดีนั่นแหละครับ
+</details>
+<br />
+
+<img src="https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/neet-detective/01.jpg" alt="story" class="img-w-desp" width="70%" />
+<center>NEET Gang</center>
 <br />
 
 ## ตัวละคร
