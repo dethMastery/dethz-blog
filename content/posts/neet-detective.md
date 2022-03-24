@@ -27,6 +27,7 @@ thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main
 <br />
 
 ## ตัวละคร
+ในส่วนของตัวละคร ผมว่าหลาย ๆ ตัวทำออกมาได้ดีในระดับของมันเลย ไม่ว่าจะเป็นส่วนของ `น้องแมว`
 <br />
 
 <img src="https://img.shields.io/badge/Score-8%2F10-coral?style=for-the-badge" alt="score">

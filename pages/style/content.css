@@ -90,6 +90,14 @@ h1.title {
     text-decoration: none;
 }
 
+.nuxt-content code {
+    color: whitesmoke;
+    padding: 3px;
+    background-color: rgba(36, 36, 36, 0.6);
+    border-radius: 5px;
+    font-size: 15px;
+}
+
 @media only screen and (max-width: 800px) {
     .content {
         width: 90%;
