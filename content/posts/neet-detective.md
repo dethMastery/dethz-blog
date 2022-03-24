@@ -40,6 +40,15 @@ thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main
 <img src="https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/neet-detective/03.png" alt="story" class="img-w-desp" width="70%" />
 <center>อลิซน่ารักที่สุด ขอบคุณครับ</center>
 <br />
+
+## สรุป
+ในส่วนของโดยรวมของเรื่องนี้ผมมองว่ามันดีในระดับนึงเลย ไม่ว่าจะเป็นส่วนของเพลงเปิดและเพลงปิดของในเรื่องนี้ ก็ทำออกมาได้ดีมาก ๆ เลย รวมถึงส่วนของงานภาพที่ดีเกินปีที่ฉายไปมาก ๆ เลยด้วย
+<br />
+<br />
+<br />
+
+แน่นอนครับ `อลิซน่ารักที่สุด` ครับ ขอบคุณครับ
+
 <br />
 
 <img src="https://img.shields.io/badge/Score-8%2F10-coral?style=for-the-badge" alt="score">
