@@ -27,7 +27,19 @@ thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main
 <br />
 
 ## ตัวละคร
-ในส่วนของตัวละคร ผมว่าหลาย ๆ ตัวทำออกมาได้ดีในระดับของมันเลย ไม่ว่าจะเป็นส่วนของ `น้องแมว`
+ในส่วนของตัวละคร ผมว่าหลาย ๆ ตัวทำออกมาได้ดีในระดับของมันเลย ไม่ว่าจะเป็นส่วนของ `น้องแมว (Charunee Kusakabe)` ที่เป็นคนลูกครึ่งไทยญี่ปุ่น
+<br />
+
+<img src="https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/neet-detective/02.jpg" alt="story" class="img-w-desp" width="70%" />
+<center>น้องแมววววววววว</center>
+<br />
+
+หรือไม่ก็ส่วนของ `น้องอลิซ (Yuuko Shionji)` ที่น่ารักมากม๊ากกกกกกกกกก
+<br />
+
+<img src="https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/neet-detective/03.png" alt="story" class="img-w-desp" width="70%" />
+<center>อลิซน่ารักที่สุด ขอบคุณครับ</center>
+<br />
 <br />
 
 <img src="https://img.shields.io/badge/Score-8%2F10-coral?style=for-the-badge" alt="score">
