@@ -18,7 +18,13 @@
           </u>
         </h1>
         <div class="a-cont">
-          <span class="author">{{post.author}}</span> · <span class="date">{{ formatDate(post.updatedAt) }}</span>
+          <span class="author">{{post.author}}</span>
+          &nbsp;·&nbsp;
+          <a class="mainTag" :href="'/posts/tag/?tag='+post.mainTag">{{post.mainTag}}</a>
+          &nbsp;
+          <a class="subTag" v-if="post.subTag != undefined" :href="'/posts/tag/?tag='+post.subTag">{{post.subTag}}</a>
+          &nbsp;·&nbsp;
+          <span class="date">{{ formatDate(post.updatedAt) }}</span>
         </div>        
         <nuxt-content :document="post" />
       </main>

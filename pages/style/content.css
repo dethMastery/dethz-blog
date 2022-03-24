@@ -21,7 +21,7 @@ main {
 .author {
     background-color: whitesmoke;
     color: #0D1B2A;
-    padding: 2px;
+    padding: 3px;
     border-radius: 5px;
 }
 
@@ -50,6 +50,28 @@ h1.title {
 .a-cont {
     text-align: left !important;
     padding-left: 3rem;
+}
+
+.a-cont .mainTag, .a-cont .subTag {
+    border-radius: 5px;
+    padding: 3px;
+
+    background: whitesmoke;
+    color: #1e2f2f;
+
+    text-decoration: none;
+    
+    opacity: 1;
+    transition: .3s;
+}
+
+.a-cont .mainTag:hover, .a-cont .subTag:hover {
+    background: whitesmoke;
+    color: #1e2f2f;
+
+    text-decoration: none;
+
+    opacity: .7;
 }
 
 .nav {
