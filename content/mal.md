@@ -20,6 +20,7 @@ date: 0
 |[Tonikaku Kawaii](./posts/tonikawa-ss1)|Fall 2020|9/10|[Click](https://myanimelist.net/anime/41389/)|
 |[07-Ghost](./posts/07ghost)|Spring 2009|8/10|[Click](https://myanimelist.net/anime/5525/)|
 |[Ijiranaide, Nagatoro-san](./posts/nagatoro-san)|Spring 2021|8/10|[Click](https://myanimelist.net/anime/42361/)|
+|[Kamisama no Memochou](./posts/neet-detective)|Summer 2011|8/10|[Click](https://myanimelist.net/anime/10568/)|
 |[Rockman.EXE Axess](./posts/rockman-exe-axess)|Fall 2003|8/10|[Click](https://myanimelist.net/anime/2108)|
 |[Rockman.EXE Stream](./posts/rockman-exe-stream)|Fall 2004|8/10|[Click](https://myanimelist.net/anime/2109/)|
 |[SSSS.Gridman](./posts/ssss-gridman)|Fall 2018|8/10|[Click](https://myanimelist.net/anime/35847/)|
