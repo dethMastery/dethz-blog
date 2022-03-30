@@ -81,7 +81,8 @@ date: 0
 |Crayon Shin-chan Movie 17: Otakebe! Kasukabe Yasei Oukoku|Movie 2009|7/10|[Click](https://myanimelist.net/anime/8368/Crayon_Shin-chan_Movie_17__Otakebe_Kasukabe_Yasei_Oukoku)|
 |Crayon Shin-chan Movie 19: Arashi wo Yobu Ougon no Spy Daisakusen|Movie 2011|7/10|[Click](https://myanimelist.net/anime/10116/Crayon_Shin-chan_Movie_19__Arashi_wo_Yobu_Ougon_no_Spy_Daisakusen)|
 |Crayon Shin-chan Movie 26: Bakumori! Kung Fu Boys - Ramen Tairan|Movie 2018|7/10|[Click](https://myanimelist.net/anime/36566/Crayon_Shin-chan_Movie_26__Bakumori_Kung_Fu_Boys_-_Ramen_Tairan)|
-|Digimon Xros Wars: Toki wo Kakeru Shounen Hunter-tachi|Fall 2011|7/10|[Click](https://myanimelist.net/anime/11385/Digimon_Xros_Wars__Toki_wo_Kakeru_Shounen_Hunter-tachi)|
+|Detective Conan Movie 07: Crossroad in the Ancient Capital|Movie 2003|7/10|[Click](https://myanimelist.net/anime/1366)|
+|Digimon Xros Wars: Toki wo Kakeru Shounen Hunter-tachi|Fall 2011|7/10|[Click](https://myanimelist.net/anime/11385)|
 |Doraemon Movie 40: Nobita no Shin Kyouryuu|Movie 2020|7/10|[Click](https://myanimelist.net/anime/40044/Doraemon_Movie_40__Nobita_no_Shin_Kyouryuu)|
 |Dragon Ball GT|Winter 1996|7/10|[Click](https://myanimelist.net/anime/225/Dragon_Ball_GT)|
 |Gokushufudou|ONA 2021|7/10|[Click](https://myanimelist.net/anime/43692/Gokushufudou)|
