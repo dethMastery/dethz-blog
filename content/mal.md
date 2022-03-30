@@ -40,6 +40,7 @@ date: 0
 |---|---|---|---|
 |Keroro Gunsou Movie 2: Shinkai no Princess de Arimasu!|Movie 2007|10/10|[Click](https://myanimelist.net/anime/2408/Keroro_Gunsou_Movie_2__Shinkai_no_Princess_de_Arimasu)|
 |Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai|Fall 2018|10/10|[Click](https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai)|
+|---|---|---|---|
 |Busou Renkin|Fall 2006|9/10|[Click](https://myanimelist.net/anime/1536/Busou_Renkin)|
 |Darwin's Game|Winter 2020|9/10|[Click](https://myanimelist.net/anime/38656/Darwins_Game)|
 |Gintama: The Final|Movie 2021|9/10|[Click](https://myanimelist.net/anime/39486/Gintama__The_Final)|
@@ -56,11 +57,12 @@ date: 0
 |Stand By Me Doraemon 2|Movie 2020|9/10|[Click](https://myanimelist.net/anime/40853/Stand_By_Me_Doraemon_2)|
 |Tegamibachi Reverse|Fall 2010|9/10|[Click](https://myanimelist.net/anime/8311/Tegamibachi_Reverse)|
 |Tiger & Bunny|Spring 2011|9/10|[Click](https://myanimelist.net/anime/9941/Tiger___Bunny)|
+|---|---|---|---|
 |Battle Spirits: Shounen Toppa Bashin|Fall 2008|8/10|[Click](https://myanimelist.net/anime/5082/Battle_Spirits__Shounen_Toppa_Bashin)|
 |Boku dake ga Inai Machi|Fall 2008|8/10|[Click](https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi)|
-|Detective Conan Movie 02: The Fourteenth Target|Movie 2004|8/10|[Click](https://myanimelist.net/anime/780)|
+|Detective Conan Movie 02: The Fourteenth Target|Movie 1998|8/10|[Click](https://myanimelist.net/anime/780)|
 |Detective Conan Movie 08: Magician of the Silver Sky|Movie 2004|8/10|[Click](https://myanimelist.net/anime/1367)|
-|Detective Conan Movie 09: Strategy Above the Depths|8/10|[Click](https://myanimelist.net/anime/1505)|
+|Detective Conan Movie 09: Strategy Above the Depths|Movie 2005|8/10|[Click](https://myanimelist.net/anime/1505)|
 |Detective Conan Movie 21: The Crimson Love Letter|Movie 2017|8/10|[Click](https://myanimelist.net/anime/34430)|
 |Digimon Adventure: Last Evolution Kizuna|Movie 2020|8/10|[Click](https://myanimelist.net/anime/38088/Digimon_Adventure__Last_Evolution_Kizuna)|
 |Fullmetal Alchemist: Brotherhood|Spring 2009|8/10|[Click](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)|
@@ -73,6 +75,7 @@ date: 0
 |Summer Wars|Movie 2009|8/10|[Click](https://myanimelist.net/anime/5681/Summer_Wars)|
 |Tensei shitara Slime Datta Ken 2nd Season|Winter 2021|8/10|[Click](https://myanimelist.net/anime/39551/Tensei_shitara_Slime_Datta_Ken_2nd_Season)|
 |The God of High School|Summer 2020|8/10|[Click](https://myanimelist.net/anime/41353/The_God_of_High_School)|
+|---|---|---|---|
 |Crayon Shin-chan Movie 17: Otakebe! Kasukabe Yasei Oukoku|Movie 2009|7/10|[Click](https://myanimelist.net/anime/8368/Crayon_Shin-chan_Movie_17__Otakebe_Kasukabe_Yasei_Oukoku)|
 |Crayon Shin-chan Movie 19: Arashi wo Yobu Ougon no Spy Daisakusen|Movie 2011|7/10|[Click](https://myanimelist.net/anime/10116/Crayon_Shin-chan_Movie_19__Arashi_wo_Yobu_Ougon_no_Spy_Daisakusen)|
 |Crayon Shin-chan Movie 26: Bakumori! Kung Fu Boys - Ramen Tairan|Movie 2018|7/10|[Click](https://myanimelist.net/anime/36566/Crayon_Shin-chan_Movie_26__Bakumori_Kung_Fu_Boys_-_Ramen_Tairan)|
@@ -90,5 +93,6 @@ date: 0
 |Servamp Movie: Alice in the Garden|Movie 2018|7/10|[Click](https://myanimelist.net/anime/36803/Servamp_Movie__Alice_in_the_Garden)|
 |Tegamibachi: Hikari to Ao no Gensou Yawa|Special 2008|7/10|[Click](https://myanimelist.net/anime/5538/Tegamibachi__Hikari_to_Ao_no_Gensou_Yawa)|
 |Tensei shitara Slime Datta Ken 2nd Season Part 2|Summer 2021|7/10|[Click](https://myanimelist.net/anime/41487/Tensei_shitara_Slime_Datta_Ken_2nd_Season_Part_2)|
+|---|---|---|---|
 |Tegamibashi Gakuen|Special 2009|6/10|[Click](https://myanimelist.net/anime/8022/Tegamibachi_Gakuen)|
 |Tegamibachi: Omakebachi|Special 2010|6/10|[Click](https://myanimelist.net/anime/9673/Tegamibachi__Omakebachi)|
