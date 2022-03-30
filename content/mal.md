@@ -53,8 +53,9 @@ date: 0
 |Keroro Gunsou Movie 3: Tenkuu Daikessen de Arimasu!|Movie 2008|9/10|[Click](https://myanimelist.net/anime/5290/Keroro_Gunsou_Movie_3__Tenkuu_Daikessen_de_Arimasu)|
 |Keroro Gunsou Movie 4: Gekishin Dragon Warriors de Arimasu!|Movie 2009|9/10|[Click](https://myanimelist.net/anime/5710/Keroro_Gunsou_Movie_4__Gekishin_Dragon_Warriors_de_Arimasu)|
 |Kimi no Nawa|Movie 2016|9/10|[Click](https://myanimelist.net/anime/32281/Kimi_no_Na_wa)|
-|Kobayashi-san Chi no Maid Dragon|Winter 2017|9/10|[Click](https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon)|
-|Kobayashi-san Chi no Maid Dragon S|Spring 2019|9/10|[Click](https://myanimelist.net/anime/39247/Kobayashi-san_Chi_no_Maid_Dragon_S)|
+|Kobayashi-san Chi no Maid Dragon|Winter 2017|9/10|[Click](https://myanimelist.net/anime/33206)|
+|Kobayashi-san Chi no Maid Dragon S|Spring 2019|9/10|[Click](https://myanimelist.net/anime/39247)|
+|Kobayashi-san Chi no Maid Dragon S: Nippon no Omotenashi - Attend wa Dragon Desu|Special 2022|9/10|[Click](https://myanimelist.net/anime/49893)|
 |Komi-san wa, Comyushou desu.|Fall 2021|9/10|[Click](https://myanimelist.net/anime/48926/Komi-san_wa_Comyushou_desu)|
 |Maoujou de Oyasumi|Fall 2020|9/10|[Click](https://myanimelist.net/anime/40397/Maoujou_de_Oyasumi)|
 |Shijou Saikyou no Deshi Kenichi|Fall 2006|9/10|[Click](https://myanimelist.net/anime/1559/Shijou_Saikyou_no_Deshi_Kenichi)|
