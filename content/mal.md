@@ -65,6 +65,7 @@ date: 0
 |---|---|---|---|
 |Battle Spirits: Shounen Toppa Bashin|Fall 2008|8/10|[Click](https://myanimelist.net/anime/5082/Battle_Spirits__Shounen_Toppa_Bashin)|
 |Boku dake ga Inai Machi|Fall 2008|8/10|[Click](https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi)|
+|Detective Conan Movie 01: The Timed Skyscraper|Movie 1997|8/10|[Click](https://myanimelist.net/anime/779)|
 |Detective Conan Movie 02: The Fourteenth Target|Movie 1998|8/10|[Click](https://myanimelist.net/anime/780)|
 |Detective Conan Movie 04: Captured in Her Eyes|Movie 2000|8/10|[Click](https://myanimelist.net/anime/1363)|
 |Detective Conan Movie 05: Countdown to Heaven|Movie 2001|8/10|[Click](https://myanimelist.net/anime/1364)|
