@@ -47,6 +47,7 @@ date: 0
 |Detective Conan Movie 10: Requiem of the Detectives|Movie 2006|9/10|[Click](https://myanimelist.net/anime/1506)|
 |Detective Conan Movie 13: The Raven Chaser|Movie 2009|9/10|[Click](https://myanimelist.net/anime/779)|
 |Detective Conan Movie 15: Quarter of Silence|Movie 2011|9/10|[Click](https://myanimelist.net/anime/9963)|
+|Detective Conan Movie 20: The Darkest Nightmare|Movie 2016|9/10|[Click](https://myanimelist.net/anime/32005)|
 |Gintama: The Final|Movie 2021|9/10|[Click](https://myanimelist.net/anime/39486/Gintama__The_Final)|
 |Keroro Gunsou Movie 3: Tenkuu Daikessen de Arimasu!|Movie 2008|9/10|[Click](https://myanimelist.net/anime/5290/Keroro_Gunsou_Movie_3__Tenkuu_Daikessen_de_Arimasu)|
 |Keroro Gunsou Movie 4: Gekishin Dragon Warriors de Arimasu!|Movie 2009|9/10|[Click](https://myanimelist.net/anime/5710/Keroro_Gunsou_Movie_4__Gekishin_Dragon_Warriors_de_Arimasu)|
