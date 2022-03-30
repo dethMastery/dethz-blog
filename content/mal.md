@@ -79,6 +79,7 @@ date: 0
 |Gokushufudou|ONA 2021|7/10|[Click](https://myanimelist.net/anime/43692/Gokushufudou)|
 |Gokushufudou Part 2|ONA 2021|7/10|[Click](https://myanimelist.net/anime/48707/Gokushufudou_Part_2)|
 |Keroro Gunsou Movie 5: Tanjou! Kyuukyoku Keroro, Kiseki no Jikuu-jima, de Arimasu!!|Movie 2010|7/10|[Click](https://myanimelist.net/anime/8134/Keroro_Gunsou_Movie_5__Tanjou_Kyuukyoku_Keroro_Kiseki_no_Jikuu-jima_de_Arimasu)|
+|Lupin III vs. Detective Conan|Special 2009|7/10|[Click](https://myanimelist.net/anime/6115)|
 |Magic Kaito|Special 2010|7/10|[Click](https://myanimelist.net/anime/8310/Magic_Kaito)|
 |Masamune-kun no Revenge|Winter 2017|7/10|[Click](https://myanimelist.net/anime/33487/Masamune-kun_no_Revenge)|
 |Persona 5 the Animation|Spring 2018|7/10|[Click](https://myanimelist.net/anime/36023/Persona_5_the_Animation)|
