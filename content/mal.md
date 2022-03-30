@@ -59,6 +59,7 @@ date: 0
 |Battle Spirits: Shounen Toppa Bashin|Fall 2008|8/10|[Click](https://myanimelist.net/anime/5082/Battle_Spirits__Shounen_Toppa_Bashin)|
 |Boku dake ga Inai Machi|Fall 2008|8/10|[Click](https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi)|
 |Detective Conan Movie 08: Magician of the Silver Sky|Movie 2004|8/10|[Click](https://myanimelist.net/anime/1367)|
+|Detective Conan Movie 09: Strategy Above the Depths|8/10|[Click](https://myanimelist.net/anime/1505)|
 |Detective Conan Movie 21: The Crimson Love Letter|Movie 2017|8/10|[Click](https://myanimelist.net/anime/34430)|
 |Digimon Adventure: Last Evolution Kizuna|Movie 2020|8/10|[Click](https://myanimelist.net/anime/38088/Digimon_Adventure__Last_Evolution_Kizuna)|
 |Fullmetal Alchemist: Brotherhood|Spring 2009|8/10|[Click](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)|
