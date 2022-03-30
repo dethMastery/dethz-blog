@@ -44,6 +44,7 @@ date: 0
 |Busou Renkin|Fall 2006|9/10|[Click](https://myanimelist.net/anime/1536/Busou_Renkin)|
 |Darwin's Game|Winter 2020|9/10|[Click](https://myanimelist.net/anime/38656/)|
 |Detective Conan Movie 03: The Last Wizard of the Century|Movie 1999|9/10|[Click](https://myanimelist.net/anime/781)|
+|Detective Conan Movie 06: The Phantom of Baker Street|Movie 2002|9/10|[Click](https://myanimelist.net/anime/1365)|
 |Detective Conan Movie 10: Requiem of the Detectives|Movie 2006|9/10|[Click](https://myanimelist.net/anime/1506)|
 |Detective Conan Movie 13: The Raven Chaser|Movie 2009|9/10|[Click](https://myanimelist.net/anime/779)|
 |Detective Conan Movie 15: Quarter of Silence|Movie 2011|9/10|[Click](https://myanimelist.net/anime/9963)|
