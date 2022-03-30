@@ -42,7 +42,8 @@ date: 0
 |Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai|Fall 2018|10/10|[Click](https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai)|
 |---|---|---|---|
 |Busou Renkin|Fall 2006|9/10|[Click](https://myanimelist.net/anime/1536/Busou_Renkin)|
-|Darwin's Game|Winter 2020|9/10|[Click](https://myanimelist.net/anime/38656/Darwins_Game)|
+|Darwin's Game|Winter 2020|9/10|[Click](https://myanimelist.net/anime/38656/)|
+|Detective Conan Movie 03: The Last Wizard of the Century|Movie 1999|9/10|[Click](https://myanimelist.net/anime/781)|
 |Gintama: The Final|Movie 2021|9/10|[Click](https://myanimelist.net/anime/39486/Gintama__The_Final)|
 |Keroro Gunsou Movie 3: Tenkuu Daikessen de Arimasu!|Movie 2008|9/10|[Click](https://myanimelist.net/anime/5290/Keroro_Gunsou_Movie_3__Tenkuu_Daikessen_de_Arimasu)|
 |Keroro Gunsou Movie 4: Gekishin Dragon Warriors de Arimasu!|Movie 2009|9/10|[Click](https://myanimelist.net/anime/5710/Keroro_Gunsou_Movie_4__Gekishin_Dragon_Warriors_de_Arimasu)|
