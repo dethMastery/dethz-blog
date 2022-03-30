@@ -44,6 +44,7 @@ date: 0
 |Busou Renkin|Fall 2006|9/10|[Click](https://myanimelist.net/anime/1536/Busou_Renkin)|
 |Darwin's Game|Winter 2020|9/10|[Click](https://myanimelist.net/anime/38656/)|
 |Detective Conan Movie 03: The Last Wizard of the Century|Movie 1999|9/10|[Click](https://myanimelist.net/anime/781)|
+|Detective Conan Movie 10: Requiem of the Detectives|Movie 2006|9/10|[Click](https://myanimelist.net/anime/1506)|
 |Gintama: The Final|Movie 2021|9/10|[Click](https://myanimelist.net/anime/39486/Gintama__The_Final)|
 |Keroro Gunsou Movie 3: Tenkuu Daikessen de Arimasu!|Movie 2008|9/10|[Click](https://myanimelist.net/anime/5290/Keroro_Gunsou_Movie_3__Tenkuu_Daikessen_de_Arimasu)|
 |Keroro Gunsou Movie 4: Gekishin Dragon Warriors de Arimasu!|Movie 2009|9/10|[Click](https://myanimelist.net/anime/5710/Keroro_Gunsou_Movie_4__Gekishin_Dragon_Warriors_de_Arimasu)|
@@ -66,6 +67,7 @@ date: 0
 |Detective Conan Movie 05: Countdown to Heaven|Movie 2001|8/10|[Click](https://myanimelist.net/anime/1364)|
 |Detective Conan Movie 08: Magician of the Silver Sky|Movie 2004|8/10|[Click](https://myanimelist.net/anime/1367)|
 |Detective Conan Movie 09: Strategy Above the Depths|Movie 2005|8/10|[Click](https://myanimelist.net/anime/1505)|
+|Detective Conan Movie 11: Jolly Roger in the Deep Azure|Movie 2007|8/10|[Click](https://myanimelist.net/anime/2171)|
 |Detective Conan Movie 21: The Crimson Love Letter|Movie 2017|8/10|[Click](https://myanimelist.net/anime/34430)|
 |Digimon Adventure: Last Evolution Kizuna|Movie 2020|8/10|[Click](https://myanimelist.net/anime/38088/Digimon_Adventure__Last_Evolution_Kizuna)|
 |Fullmetal Alchemist: Brotherhood|Spring 2009|8/10|[Click](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)|
