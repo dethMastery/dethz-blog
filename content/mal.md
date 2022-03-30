@@ -68,6 +68,7 @@ date: 0
 |Detective Conan Movie 08: Magician of the Silver Sky|Movie 2004|8/10|[Click](https://myanimelist.net/anime/1367)|
 |Detective Conan Movie 09: Strategy Above the Depths|Movie 2005|8/10|[Click](https://myanimelist.net/anime/1505)|
 |Detective Conan Movie 11: Jolly Roger in the Deep Azure|Movie 2007|8/10|[Click](https://myanimelist.net/anime/2171)|
+|Detective Conan Movie 12: Full Score of Fear|Movie 2008|8/10|[Click](https://myanimelist.net/anime/4447)|
 |Detective Conan Movie 21: The Crimson Love Letter|Movie 2017|8/10|[Click](https://myanimelist.net/anime/34430)|
 |Digimon Adventure: Last Evolution Kizuna|Movie 2020|8/10|[Click](https://myanimelist.net/anime/38088/Digimon_Adventure__Last_Evolution_Kizuna)|
 |Fullmetal Alchemist: Brotherhood|Spring 2009|8/10|[Click](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)|
