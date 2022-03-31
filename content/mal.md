@@ -111,5 +111,6 @@ date: 0
 |Tegamibachi: Hikari to Ao no Gensou Yawa|Special 2008|7/10|[Click](https://myanimelist.net/anime/5538/Tegamibachi__Hikari_to_Ao_no_Gensou_Yawa)|
 |Tensei shitara Slime Datta Ken 2nd Season Part 2|Summer 2021|7/10|[Click](https://myanimelist.net/anime/41487/Tensei_shitara_Slime_Datta_Ken_2nd_Season_Part_2)|
 |---|---|---|---|
-|Tegamibashi Gakuen|Special 2009|6/10|[Click](https://myanimelist.net/anime/8022/Tegamibachi_Gakuen)|
-|Tegamibachi: Omakebachi|Special 2010|6/10|[Click](https://myanimelist.net/anime/9673/Tegamibachi__Omakebachi)|
+|Battle Spirits: Kakumei no Galette|ONA 2020|6/10|[Click](https://myanimelist.net/anime/41137)|
+|Tegamibashi Gakuen|Special 2009|6/10|[Click](https://myanimelist.net/anime/8022)|
+|Tegamibachi: Omakebachi|Special 2010|6/10|[Click](https://myanimelist.net/anime/9673)|
