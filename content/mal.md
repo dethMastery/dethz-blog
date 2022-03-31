@@ -11,6 +11,7 @@ date: 0
 |[Ryuusei no Rockman](./posts/ryuusei-no-rockman)|Fall 2006|10/10|[Click](https://myanimelist.net/anime/1835/)|
 |[Tonikaku Kawaii: SNS](./posts/tonikawa-ss1)|OVA 2020|10/10|[Click](https://myanimelist.net/anime/44931/)|
 |[Yamada-kun to 7-nin no Majo](./posts/yamada-kun-to-7-nin-no-majo)|Spring 2015|10/10|[Click](https://myanimelist.net/anime/28677/)|
+|---|---|---|---|
 |[Crayon Shin-chan Movie 18: Chou Jikuu! Arashi wo Yobu Ora no Hanayome](./posts/shinchan-future-wifu)|Movie 2010|9/10|[Click](https://myanimelist.net/anime/8369/)|
 |[Kaze no Stigma](./posts/kaze-no-stigma)|Spring 2007|9/10|[Click](https://myanimelist.net/anime/1691/)|
 |[Rockman.EXE](./posts/rockman-exe)|Spring 2002|9/10|[Click](https://myanimelist.net/anime/1710/)|
@@ -18,6 +19,7 @@ date: 0
 |[Ryuusei no Rockman Tribe](./posts/ryuusei-no-rockman-tribe)|Fall 2007|9/10|[Click](https://myanimelist.net/anime/3493/)|
 |[SSSS.Dynazenon](./posts/ssss-dynazenon)|Spring 2021|9/10|[Click](https://myanimelist.net/anime/40870/)|
 |[Tonikaku Kawaii](./posts/tonikawa-ss1)|Fall 2020|9/10|[Click](https://myanimelist.net/anime/41389/)|
+|---|---|---|---|
 |[07-Ghost](./posts/07ghost)|Spring 2009|8/10|[Click](https://myanimelist.net/anime/5525/)|
 |[Ijiranaide, Nagatoro-san](./posts/nagatoro-san)|Spring 2021|8/10|[Click](https://myanimelist.net/anime/42361/)|
 |[Kamisama no Memochou](./posts/neet-detective)|Summer 2011|8/10|[Click](https://myanimelist.net/anime/10568/)|
@@ -25,11 +27,14 @@ date: 0
 |[Rockman.EXE Stream](./posts/rockman-exe-stream)|Fall 2004|8/10|[Click](https://myanimelist.net/anime/2109/)|
 |[SSSS.Gridman](./posts/ssss-gridman)|Fall 2018|8/10|[Click](https://myanimelist.net/anime/35847/)|
 |[Tegami Bachi](./posts/letter-bee)|Fall 2009|8/10|[Click](https://myanimelist.net/anime/6444/)|
+|---|---|---|---|
 |[Dokyuu Hentai HxEros](./posts/super-hxeros)|Summer 2020|7/10|[Click](https://myanimelist.net/anime/40623/)|
 |[Digimon Xros War](./posts/xros-war)|Summer 2010|7/10|[Click](https://myanimelist.net/anime/8624/)|
 |[Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku](./posts/xros-war)|Spring 2011|7/10|[Click](https://myanimelist.net/anime/10444/)|
 |[Rockman.EXE Movie: Hikari to Yami no Program](./posts/rockman-exe-movie)|Movie 2005|7/10|[Click](https://myanimelist.net/anime/2111/)|
+|---|---|---|---|
 |[Bounen no Xamdou](./posts/bounen-no-xamdou)|ONA 2008|6/10|[Click](https://myanimelist.net/anime/4177/)|
+|---|---|---|---|
 |[Zettai Muteki Raijin-Oh](./posts/raijin-oh)|Spring 1991|5/10|[Click](https://myanimelist.net/anime/1897/)|
 |[Dokyuu Hentai HxEros OVA](./posts/super-hxros)|OVA 2020|5/10|[Click](https://myanimelist.net/anime/42803/)|
 
