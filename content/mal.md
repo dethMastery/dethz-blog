@@ -78,14 +78,15 @@ date: 0
 |Detective Conan Movie 14: The Lost Ship in the Sky|Movie 2010|8/10|[Click](https://myanimelist.net/anime/6467)|
 |Detective Conan Movie 19: The Hellfire Sunflowers|Movie 2015|8/10|[Click](https://myanimelist.net/anime/28479)|
 |Detective Conan Movie 21: The Crimson Love Letter|Movie 2017|8/10|[Click](https://myanimelist.net/anime/34430)|
-|Digimon Adventure: Last Evolution Kizuna|Movie 2020|8/10|[Click](https://myanimelist.net/anime/38088/Digimon_Adventure__Last_Evolution_Kizuna)|
-|Fullmetal Alchemist: Brotherhood|Spring 2009|8/10|[Click](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)|
-|Kenja no Mago|Spring 2019|8/10|[Click](https://myanimelist.net/anime/36407/Kenja_no_Mago)|
-|Keroro Gunsou Movie 1|Movie 2006|8/10|[Click](https://myanimelist.net/anime/2407/Keroro_Gunsou_Movie_1)|
-|Kuzu no Honkai|Winter 2017|8/10|[Click](https://myanimelist.net/anime/32949/Kuzu_no_Honkai)|
-|Noragami|Winter 2014|8/10|[Click](https://myanimelist.net/anime/20507/Noragami)|
-|Pokemon Movie 05: Mizu no Miyako no Mamorigami Latias to Latios|Movie 2002|8/10|[Click](https://myanimelist.net/anime/1120/Pokemon_Movie_05__Mizu_no_Miyako_no_Mamorigami_Latias_to_Latios)|
-|Servamp|Summer 2016|8/10|[Click](https://myanimelist.net/anime/31229/Servamp)|
+|Digimon Adventure: Last Evolution Kizuna|Movie 2020|8/10|[Click](https://myanimelist.net/anime/38088)|
+|Doraemon Movie 12: Nobita no Dorabian Nights|Movie 1991|8/10|[Click](https://myanimelist.net/anime/2670)|
+|Fullmetal Alchemist: Brotherhood|Spring 2009|8/10|[Click](https://myanimelist.net/anime/5114)|
+|Kenja no Mago|Spring 2019|8/10|[Click](https://myanimelist.net/anime/36407)|
+|Keroro Gunsou Movie 1|Movie 2006|8/10|[Click](https://myanimelist.net/anime/2407)|
+|Kuzu no Honkai|Winter 2017|8/10|[Click](https://myanimelist.net/anime/32949)|
+|Noragami|Winter 2014|8/10|[Click](https://myanimelist.net/anime/20507)|
+|Pokemon Movie 05: Mizu no Miyako no Mamorigami Latias to Latios|Movie 2002|8/10|[Click](https://myanimelist.net/anime/1120)|
+|Servamp|Summer 2016|8/10|[Click](https://myanimelist.net/anime/31229)|
 |Summer Wars|Movie 2009|8/10|[Click](https://myanimelist.net/anime/5681/Summer_Wars)|
 |Tensei shitara Slime Datta Ken 2nd Season|Winter 2021|8/10|[Click](https://myanimelist.net/anime/39551/Tensei_shitara_Slime_Datta_Ken_2nd_Season)|
 |The God of High School|Summer 2020|8/10|[Click](https://myanimelist.net/anime/41353/The_God_of_High_School)|
@@ -97,7 +98,7 @@ date: 0
 |Detective Conan Movie 16: The Eleventh Striker|Movie 2012|7/10|[Click](https://myanimelist.net/anime/12117)|
 |Detective Conan Movie 17: Private Eye in the Distant Sea|Movie 2013|7/10|[Click](https://myanimelist.net/anime/14735)|
 |Digimon Xros Wars: Toki wo Kakeru Shounen Hunter-tachi|Fall 2011|7/10|[Click](https://myanimelist.net/anime/11385)|
-|Doraemon Movie 40: Nobita no Shin Kyouryuu|Movie 2020|7/10|[Click](https://myanimelist.net/anime/40044/Doraemon_Movie_40__Nobita_no_Shin_Kyouryuu)|
+|Doraemon Movie 40: Nobita no Shin Kyouryuu|Movie 2020|7/10|[Click](https://myanimelist.net/anime/40044)|
 |Dragon Ball GT|Winter 1996|7/10|[Click](https://myanimelist.net/anime/225/Dragon_Ball_GT)|
 |Gokushufudou|ONA 2021|7/10|[Click](https://myanimelist.net/anime/43692/Gokushufudou)|
 |Gokushufudou Part 2|ONA 2021|7/10|[Click](https://myanimelist.net/anime/48707/Gokushufudou_Part_2)|
