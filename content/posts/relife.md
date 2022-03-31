@@ -30,6 +30,11 @@ thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main
 <br />
 
 ## ตัวละคร
+ส่วนของตัวละครหลาย ๆ ตัวในเรื่องนี้ ค่อนข้างที่จะน่ารักมาก ๆ ตามสไตล์ ผู้ใหญ่ในร่างเด็ก High School ปี 3 และ เด็ก ๆ ในวัยนั้น ๆ บางคนก็หล่อเท่ บางคนก็นุ้บนิ้บมาก `โดยเฉพาะคุณแอนน์` และแน่นอนครับ `โฮชิรอนน่ารักมากคับ`
+<br />
+
+<img src="https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/relife/03.jpg" alt="story" class="img-w-desp" width="70%" />
+<center>อันนี้ความน่ารักจริง ๆ</center>
 <br />
 
 ## ป.ล.
