@@ -15,6 +15,18 @@ thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main
 <br />
 
 ## เนื้อเรื่อง
+โดยส่วนตัวของผมเอง ผมคิดว่าเนื้อเรื่องของเรื่องนี้ดูค่อนข้างเรียบ ๆ ไปหน่อย แต่ก็มีปมหลาย ๆ อย่างที่ทิ้งเอาไว้โดยที่ไม่ยอมมาอธิบายต่ออีก แต่ว่าโดยรวมผมว่ามันก็ดีพอสมควรเลยหละ
+
+<details>
+  <br />
+  <summary> <u>Spoiler</u> </summary> 
+เรื่องที่คาใจส่วนใหญ่ ก็เช่น เรื่องของพระเอกที่มีปมเรื่องที่มีคนพยายามจะมาจับที่คอ แล้วต้องย้อนภาพ Flash Back ไปตอนที่รุ่นพี่มันถูกแขวนคอ
+<br />หรือว่าเรื่องที่ว่า ทำไมรอบแรกนางเอกถึง ReLife ไม่ผ่าน รวมกับเรื่องปมหลาย ๆ อย่างของเรียวอีกนั่นแหละครับ
+</details>
+<br />
+
+<img src="https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main/aniRev/relife/02.jpg" alt="story" class="img-w-desp" width="70%" />
+<center>รูปประกอบความน่ารัก</center>
 <br />
 
 ## ตัวละคร
