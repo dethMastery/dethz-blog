@@ -37,7 +37,7 @@ thumbnail: https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dethz-blog-source@main
 <center>อันนี้ความน่ารักจริง ๆ</center>
 <br />
 
-## ป.ล.
+## 
 <br />
 
 <img src="https://img.shields.io/badge/Score-8%2F10-coral?style=for-the-badge" alt="score">
