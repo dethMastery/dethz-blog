@@ -15,7 +15,7 @@ main {
 .header-bg {
     background-size: cover !important;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center !important;
 }
 
 .author {
