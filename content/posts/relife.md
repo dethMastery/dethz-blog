@@ -1,8 +1,8 @@
 ---
-title: "[Summer 2016] ReLife"
-hTitle: รีวิวสั้นๆ หลังดู ReLife (Summer 2016)
+title: "[Summer 2016] ReLIFE"
+hTitle: รีวิวสั้นๆ หลังดู ReLIFE (Summer 2016)
 date: 1648716262375
-description: "รีวิวสั้นๆ หลังจากดู ReLife.."
+description: "รีวิวสั้นๆ หลังจากดู ReLIFE.."
 mainTag: "AniReview"
 subTag: 
 author: Deth's
